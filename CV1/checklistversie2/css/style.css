@@ -1,0 +1,268 @@
+body {
+    background-image: url(../foto/background%201.png);
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+}
+
+/*header*/
+#main-header {
+    background: url(../foto/wrok2.jpg) no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 710px;
+    margin-bottom: 40px;
+}
+
+.text-box {
+    padding-top: 200px;
+    top: 50px;
+    width: 100%;
+    text-align: center;
+    
+}
+
+.text-box span.border {
+    background: #fff;
+    color: #000;
+    padding: 15px;
+    margin-top: 10px;
+    font-size: 25px;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+    display: inline-block;
+    box-shadow: 0 8px 10px -0px black;
+}
+
+.text-box-home {
+    padding-top: 200px;
+    top: 50px;
+    width: 100%;
+    text-align: center;
+
+}
+
+.text-box-home span.border {
+    background: #fff;
+    color: #000;
+    padding: 15px;
+    margin-top: 10px;
+    font-size: 25px;
+    letter-spacing: 10px;
+    text-transform: uppercase;
+    display: inline-block;
+}
+
+
+/*header end*/
+section ul {
+    margin: 0;
+    padding: 0;
+}
+
+section li {
+    float: left;
+    list-style-type: none;
+    width: 45%;
+    padding-left: 15px;
+
+}
+
+/*checklist programs*/
+
+.checklist {
+    display: block;
+    position: relative;
+    padding-left: 35px;
+    margin-bottom: 12px;
+    cursor: pointer;
+    font-size: 18px;
+    color: white;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+}
+
+.checklist input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+    height: 0;
+    width: 0;
+}
+
+.checkmark {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 25px;
+    width: 25px;
+    background-color: #eee;
+}
+
+.checklist:hover input ~ .checkmark {
+    background-color: #ccc;
+}
+
+.checklist input:checked ~ .checkmark {
+    background-color: #2196f3;
+}
+
+.checkmark:after {
+    content: "";
+    position: absolute;
+    display: none;
+}
+
+.checklist input:checked ~ .checkmark:after {
+    display: block;
+}
+
+.checklist .checkmark:after {
+    left: 9px;
+    top: 5px;
+    width: 5px;
+    height: 10px;
+    border: solid white;
+    border-width: 0 3px 3px 0;
+    -webkit-transform:
+        rotate(45deg);
+    transform: rotate(45deg);
+}
+
+/*checklist programs end*/
+
+/*progressbar*/
+
+li {
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+
+progress {
+    width: 70%;
+    height: 20px;
+    color: #3fb6b2;
+    background: #2196f3;
+}
+}
+
+progress::-webkit-progress-bar {
+    background: #2196f3;
+}
+
+progress::-webkit-progress-value {
+    background: #2196f3;
+}
+
+progress::-moz-progress-bar {
+    color: #3fb6b2;
+    background: #2196f3;
+}
+
+h2 {
+    color: grey;
+}
+
+/*timeline*/
+
+.timeline {
+    position: absolute;
+    max-width: 75%;
+    height: 10px;
+    margin: 0 auto;
+    background-color: transparent;
+
+}
+
+timeline::after {
+    content: '';
+    position: absolute;
+    width: 6px;
+    background-color: white;
+    top: 0;
+    bottom: 0;
+    left: 50%;
+    margin-left: -3px;
+}
+
+.container {
+    padding: 10px 40px;
+    position: relative;
+    background-color: inherit;
+    width: 55%;
+    bottom: -430px;
+}
+
+.container::after {
+    content: '';
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    right: -17px;
+    background-color: white;
+    border: 4px solid #FF9F55;
+    top: 15px;
+    border-radius: 50%;
+    z-index: 1;
+}
+
+.left {
+    left: 0%;
+}
+
+.right {
+    left: 70%;
+}
+
+.left::before {
+    content: " ";
+    height: 0;
+    position: absolute;
+    top: 22px;
+    width: 0;
+    z-index: 1;
+    right: 30px;
+    border: medium solid white;
+    border-width: 10px 0 10px 10px;
+    border-color: transparent transparent transparent white;
+}
+
+.right::before {
+    content: " ";
+    height: 0;
+    position: absolute;
+    top: 22px;
+    width: 0;
+    z-index: 1;
+    left: 30px;
+    border: medium solid white;
+    border-width: 10px 10px 10px 0;
+    border-color: transparent white transparent transparent;
+}
+
+.right::after {
+    left: -16px;
+}
+
+.content {
+    padding: 20px 30px;
+    background-color: white;
+    position: relative;
+    border-radius: 60px;
+}
+
+.wrapper {
+    max-width: 960px;
+    width: 96%;
+    margin: 0 auto;
+    padding: 0 2%;
+}
+
+.wrapper2 {
+    position: relative;
+    max-width: 960px;
+    width: 96%;
+    margin: 0 auto;
+    padding: 0 2%;
+}

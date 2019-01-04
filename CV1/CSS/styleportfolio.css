@@ -1,0 +1,142 @@
+#nav img {
+    width: 60px;
+}
+
+#main-header {
+    background: url(../foto/Portfolio2.jpg) no-repeat;
+    background-size: 100%;
+    width: 100%;
+    height: 650px;
+    margin-top: 90px;
+}
+
+
+#hackaton img {
+    margin-top: 40px;
+    box-shadow: 5px 5px 15px 10px black;
+    margin-left: 350px;
+}
+
+#hackaton h1 {
+    margin-left: 100px;
+}
+
+#hackaton p {
+    margin-left: 100px;
+}
+
+#hackaton a {
+    margin-left: 100px;
+}
+
+
+#bootcamp h1 {
+    position: center;
+}
+
+#wishlist img {
+    width: 450px;
+    box-shadow: 5px 5px 15px 10px black;
+    Margin: 20px 0;
+}
+
+/*--------programs and progress------------*/
+
+#programs {
+    height: 400px;
+    padding-left: 50px;
+    width: 350px;
+    margin-top: 80px;
+    margin-left: 150px;
+    box-shadow: 5px 5px 15px 10px black;
+}
+
+#progress {
+    margin-top: 80px;
+    height: 600px;
+    padding-left: 50px;
+    width: auto;
+    margin-left: 20px;
+    box-shadow: 5px 5px 15px 10px black;
+}
+
+#progress {
+    margin-top: 40px;
+    margin-left: 10px;
+    margin-bottom: 60px;
+}
+
+/*-------checklist-------------*/
+
+.checklist {
+    display: block;
+    position: relative;
+    padding-left: 35px;
+    margin-bottom: 12px;
+    cursor: pointer;
+    font-size: 18px;
+    color: black;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+}
+
+.checklist input {
+    position: absolute;
+    opacity: 0;
+    cursor: pointer;
+    height: 0;
+    width: 0;
+}
+
+.checkmark {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 25px;
+    width: 25px;
+    background-color: #eee;
+}
+
+.checklist:hover input ~ .checkmark {
+    background-color: #ccc;
+}
+
+.checklist input:checked ~ .checkmark {
+    background-color: #2196f3;
+}
+
+.checkmark:after {
+    content: "";
+    position: absolute;
+    display: none;
+}
+
+.checklist input:checked ~ .checkmark:after {
+    display: block;
+}
+
+.checklist .checkmark:after {
+    left: 9px;
+    top: 5px;
+    width: 5px;
+    height: 10px;
+    border: solid white;
+    border-width: 0 3px 3px 0;
+    -webkit-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+
+.li {
+    list-style-type: none;
+}
+
+/*---------------------------------------*/
+
+hr {
+    opacity: 5;
+    margin: 30px 0;
+}
+
+
+
