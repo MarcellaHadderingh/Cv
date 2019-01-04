@@ -305,9 +305,9 @@
     <!--Section42-->
     <div id="section42" class="container-fluid " style="padding-top:70px;padding-bottom:70px;">
         <div class="w3-content w3-section" style="max-width:500px">
-            <img class="mySlides" src="foto/Schermafbeelding 2018-12-21 om 16.01.21.png" style="width:70%">
-            <img class="mySlides" src="foto/Schermafbeelding 2018-12-21 om 16.01.35.png" style="width:70%">
-            <img class="mySlides" src="foto/Hackaton1.png" style="width:100%">
+            <img class="mySlides" src="foto/Schermafbeelding 2018-12-21 om 16.01.21.png" style="width:70%" alt="Responsive image">
+            <img class="mySlides" src="foto/Schermafbeelding 2018-12-21 om 16.01.35.png" style="width:70% alt="Responsive image">
+            <img class="mySlides" src="foto/Hackaton1.png" style="width:100%" alt="Responsive image">
         </div>
     </div>
 
