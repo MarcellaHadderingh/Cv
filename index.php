@@ -175,7 +175,7 @@
                         <h3>Week 2</h3>
                         <p>Hierin ben ik bezig gegaan met Javascript en Bootstrap. Mijn CV Portfolio versie 1 is gemaakt in Bootstrap.Ook ben ik met Javascript aan het werk geweest.Hier mee heb ik een contactlijst gemaakt, met filter en nieuw toevoeginsfunctie.(versie1)</p>
                         <a href="/CV1/index.html" target="_blank" class="btn btn-primary">CV</a>
-                        <a href="/contact-list/index.html" target="_blank" class="btn btn-primary">Contact Lijst</a>
+                        <a href="/contactlist/index.html" target="_blank" class="btn btn-primary">Contact Lijst</a>
                     </div>
                     <div class="w-100"></div>
                     <div class="col" data-aos="fade-up-right">
@@ -183,7 +183,7 @@
                         <h3>Week 3</h3>
                         <p>Hierin heb ik een SCRUM les gehad. (Dit is een manier van werken). Hierna ben ik in een team gestapt om met scrum een opdracht te maken.Deze opdracht was een verlanglijst maken.Deze opdracht hadden we in 2 dagen af en gepresenteerd
                             en online gezet. Deze verlanglijst is opgemaakt in HTML CSS en Javascipt.</p>
-                        <a href="/verlanglijstje v1/index.php" target="_blank" class="btn btn-primary">Verlanglijstje</a>
+                        <a href="/verlanglijstje/index-final.html" target="_blank" class="btn btn-primary">Verlanglijstje</a>
                     </div>
                     <div class="col" data-aos="fade-up-left">
                         <h3>Week 4</h3>
