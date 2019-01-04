@@ -155,7 +155,7 @@
         <div class="row">
             <div class="col-10">
                 <div id="hackaton">
-                    <img src="foto/hackaton.png" style="width: 500px">
+                    <img src="foto/hackaton.png" style="width: 60%" alt="Responsive image">
                 </div>
                 <h1>Hackaton</h1>
                 <p>Op 29 November 2018 heb ik meegedaan aan een hackaton. <br> Deze werd georganiseerd door Code Gorilla. <br> Aan de hand van deze hackaton ben ik door gegaan naar de Bootcamp om mee te mogen doen aan de opleiding tot Junior web developer.<br>                    Tijdens deze hackaton was onze opdracht om een website te maken voor CEECEE Comunity. <br> Dit gebeurde in team verband.<br> Zie de link voor mijn resultaat.
@@ -184,7 +184,7 @@
                     </div>
                     <div class="w-100"></div>
                     <div class="col" data-aos="fade-up-right">
-                        <div id="wishlist"><img src="foto/Wishlist.png" alt="wishlist"></div>
+                        <div id="wishlist"><img src="foto/Wishlist.png" alt="wishlist" style="width: 80%" alt="Responsive image"></div>
                         <h3>Week 3</h3>
                         <p>Hierin heb ik een SCRUM les gehad. (Dit is een manier van werken). Hierna ben ik in een team gestapt om met scrum een opdracht te maken.Deze opdracht was een verlanglijst maken.Deze opdracht hadden we in 2 dagen af en gepresenteerd
                             en online gezet. Deze verlanglijst is opgemaakt in HTML CSS en Javascipt.</p>
