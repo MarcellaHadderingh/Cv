@@ -40,6 +40,11 @@
     <!--Nav-->
     <nav class="navbar navbar-expand-sm bg-dark navbar-dark sticky-top">
         <a href="/index.php"><img src="foto/mhd-logo-white.svg" alt="logo"></a>
+        <button class="navbar-toggler toggler-example" type="button" data-toggle="collapse" data-target="#navbarSupportedContent1"
+    aria-controls="navbarSupportedContent1" aria-expanded="false" aria-label="Toggle navigation"><span class="dark-blue-text"><i
+        class="fas fa-bars fa-1x"></i></span></button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent1">
         <ul class="navbar-nav">
             <li class="nav-item">
                 <a class="nav-link" href="#section1">About</a>
@@ -57,7 +62,7 @@
                 <div class="dropdown-menu">
                     <a class="dropdown-item" href="#section41">Pogress</a>
                     <a class="dropdown-item" href="#section42">Slideshow</a>
-                </div>
+                </div>  
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="/contact/index.php">Contact</a>
