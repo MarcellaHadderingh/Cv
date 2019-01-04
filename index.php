@@ -183,7 +183,7 @@
                         <h3>Week 3</h3>
                         <p>Hierin heb ik een SCRUM les gehad. (Dit is een manier van werken). Hierna ben ik in een team gestapt om met scrum een opdracht te maken.Deze opdracht was een verlanglijst maken.Deze opdracht hadden we in 2 dagen af en gepresenteerd
                             en online gezet. Deze verlanglijst is opgemaakt in HTML CSS en Javascipt.</p>
-                        <a href="/verlanglijstje/index-final.html" target="_blank" class="btn btn-primary">Verlanglijstje</a>
+                        <a href="https://wishlistproject.herokuapp.com/" target="_blank" class="btn btn-primary">Verlanglijstje</a>
                     </div>
                     <div class="col" data-aos="fade-up-left">
                         <h3>Week 4</h3>
