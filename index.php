@@ -175,7 +175,7 @@
                         <h3>Week 2</h3>
                         <p>Hierin ben ik bezig gegaan met Javascript en Bootstrap. Mijn CV Portfolio versie 1 is gemaakt in Bootstrap.Ook ben ik met Javascript aan het werk geweest.Hier mee heb ik een contactlijst gemaakt, met filter en nieuw toevoeginsfunctie.(versie1)</p>
                         <a href="/CV1/index.html" target="_blank" class="btn btn-primary">CV</a>
-                        <a href="/contactlist/index.html" target="_blank" class="btn btn-primary">Contact Lijst</a>
+                        <a href="https://contactlistmarcella.herokuapp.com" target="_blank" class="btn btn-primary">Contact Lijst</a>
                     </div>
                     <div class="w-100"></div>
                     <div class="col" data-aos="fade-up-right">
