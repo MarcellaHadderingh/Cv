@@ -121,6 +121,10 @@
                 list-style-type: none;
             }
             
+            a {
+                color: #D9DAD9;
+            }
+            
             .personalia li:nth-child(even) {
                 padding-bottom: 20px;
             }

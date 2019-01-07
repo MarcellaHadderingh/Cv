@@ -123,8 +123,8 @@ body {
 }
 
 .box {
-    margin: 250px auto;
-    height: 50px;
+    margin: 80px auto;
+    height: auto;
     width: 400px;
     color: white;
 }
@@ -156,4 +156,16 @@ img {
     -webkit-transition-duration: 0.5s;
     -moz-transition-duration: 0.5s;
     -o-transition-duration: 0.5s;
+}
+
+a {
+    color: white;
+}
+
+#social-em:hover {
+    color: #f39c12;
+}
+
+.img-fluid {
+    width: 60%;
 }

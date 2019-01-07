@@ -111,6 +111,8 @@
             <li>Roomweg 91 A<br> 7523 BM Enschede</li>
             <li><strong>TELEFOON</strong></li>
             <li>06 46944691</li>
+            <li><strong>E-MAIL</strong></li>
+            <li><a href="mailto:marcellavanduyn@gmail.com"><i id="social-em" class="fa fa-envelope-square fa-3x social"></i></a></li>
             <li><strong>BURGELIJKE STAAT</strong></li>
             <li>Gehuwd</li>
             <li><strong>NATIONALITEIT</strong></li>
@@ -192,7 +194,7 @@
                     </div>
                     <div class="col" data-aos="fade-up-left" style="margin-top:280px">
                          <h3>Week 4</h3>
-                        <p>In week 4 zijn wij begonnen met PHP.Ik heb mijn contact formulier met PHP gemaakt.Als je deze verzend krijg ik hier een email van.</p>
+                        <p>In week 4 zijn wij begonnen met PHP. Ik heb mijn contact formulier met PHP gemaakt. Als je deze verzend krijg ik hier een email van. Helaas werkt dit nog niet met Heroku. Ik ben hier nog mee bezig.</p>
                         <a href="/contact/index.php" target="_blank" class="btn btn-primary">Contact</a>
                     </div>
                     <div class="w-100"></div>
