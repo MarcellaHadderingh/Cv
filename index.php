@@ -191,14 +191,13 @@
                             en online gezet op heroku. Dit verlanglijst is opgemaakt in HTML CSS en Javascipt.</p>
                         <a href="https://wishlistproject.herokuapp.com/" target="_blank" class="btn btn-primary">Verlanglijstje</a>
                     </div>
-                    <div class="col" data-aos="fade-up-left">
-                        <br>
+                    <div class="col" data-aos="fade-up-left" style="margin-top:280px">
                          <h3>Week 4</h3>
                         <p>In week 4 zijn wij begonnen met PHP.Ik heb mijn contact formulier met PHP gemaakt.Als je deze verzend krijg ik hier een email van.</p>
                         <a href="/contact/index.php" target="_blank" class="btn btn-primary">Contact</a>
                     </div>
                     <div class="w-100"></div>
-                    <div class="col"><h4>Week 5</h4>
+                    <div class="col" data-oas="fade-up-right" style="margin-top:40px"><h4>Week 5</h4>
                     <p>Hier zijn wij verder gegaan met PHP.</p>
                     </div>
                     <div class="col">Week 6</div>
@@ -315,11 +314,16 @@
 
     <!--Section42-->
     <div id="section42" class="container-fluid " style="padding-top:70px;padding-bottom:70px;">
-        <div class="w3-content w3-section" style="max-width:500px">
+        <div class="w3-content w3-section" style="max-width:500px";>
             <img class="mySlides" src="foto/Schermafbeelding 2018-12-21 om 16.01.21.png" style="width:70%" alt="Responsive image">
             <img class="mySlides" src="foto/Schermafbeelding 2018-12-21 om 16.01.35.png" style="width:70%" alt="Responsive image">
             <img class="mySlides" src="foto/Hackaton1.png" style="width:100%" alt="Responsive image">
              <img class="mySlides" src="foto/IMG_6200.jpg" style="width:100%" alt="Responsive image">
+             <img class="mySlides" src="foto/hackaton.png" style="width:100%" alt="Responsive image">
+             <img class="mySlides" src="foto/Wishlist.png" style="width:100%" alt="Responsive image">
+             <img class="mySlides" src="foto/contactform.png" style="width:100%" alt="Responsive image">
+             <img class="mySlides" src="foto/contactlist.png" style="width:100%" alt="Responsive image">          
+             
         </div>
     </div>
 
