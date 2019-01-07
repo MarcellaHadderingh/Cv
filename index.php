@@ -173,7 +173,6 @@
                     <div class="col " data-aos="fade-up-right">
                         <h3>Week 1</h3>
                         <p> Week 1 hebben ik veel met HTML + CSS gewerkt. Hier voor heb ik een checlist en een leerplan gemaakt. En ook mijn CV versie 1 heb ik hierin gemaakt. Mijn Leerplan versie 1 en CV versie 1 zijn hier in te zien.</p>
-                        <br>
                         <a href="/CV1/checklistversie2/index.html" target="_blank" class="btn btn-primary">Leerplan</a>
                         <a href="/CV1/CVMarcellaHadderingh/index.html" target="_blank" class="btn btn-primary">CV</a>
                     </div>
