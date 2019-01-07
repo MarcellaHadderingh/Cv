@@ -171,14 +171,14 @@
                 <div class="row">
                     <div class="col " data-aos="fade-up-right">
                         <h3>Week 1</h3>
-                        <p> Week 1 hebben ik veel met HTML + CSS gewerkt. Hier voor heb ik een checlist en een leerplan gemaakt. En ook mijn CV heb ik hierin gemaakt. Mijn Leerplan versie 1 en CV versie 1 zijn hier in te zien.</p>
+                        <p> Week 1 hebben ik veel met HTML + CSS gewerkt. Hier voor heb ik een checlist en een leerplan gemaakt. En ook mijn CV versie 1 heb ik hierin gemaakt. Mijn Leerplan versie 1 en CV versie 1 zijn hier in te zien.</p>
                         <br>
                         <a href="/CV1/checklistversie2/index.html" target="_blank" class="btn btn-primary">Leerplan</a>
                         <a href="/CV1/CVMarcellaHadderingh/index.html" target="_blank" class="btn btn-primary">CV</a>
                     </div>
                     <div class="col" data-aos="fade-up-left">
                         <h3>Week 2</h3>
-                        <p>Hierin ben ik bezig gegaan met Javascript en Bootstrap. Mijn CV Portfolio versie 1 is gemaakt in Bootstrap.Ook ben ik met Javascript aan het werk geweest.Hier mee heb ik een contactlijst gemaakt, met filter en nieuw toevoeginsfunctie.(versie1)</p>
+                        <p>Hierin ben ik bezig gegaan met Javascript en Bootstrap. Mijn CV Portfolio versie 2 is gemaakt in Bootstrap. Ook ben ik met Javascript aan het werk geweest. Hier mee heb ik een contactlijst gemaakt, met filter en nieuw toevoeginsfunctie.(versie1)</p>
                         <a href="/CV1/index.html" target="_blank" class="btn btn-primary">CV</a>
                         <a href="https://contactlistmarcella.herokuapp.com" target="_blank" class="btn btn-primary">Contact Lijst</a>
                     </div>
@@ -186,8 +186,8 @@
                     <div class="col" data-aos="fade-up-right">
                         <div id="wishlist"><img src="foto/Wishlist.png" alt="wishlist" style="width: 80%" alt="Responsive image"></div>
                         <h3>Week 3</h3>
-                        <p>Hierin heb ik een SCRUM les gehad. (Dit is een manier van werken). Hierna ben ik in een team gestapt om met scrum een opdracht te maken.Deze opdracht was een verlanglijst maken.Deze opdracht hadden we in 2 dagen af en gepresenteerd
-                            en online gezet. Deze verlanglijst is opgemaakt in HTML CSS en Javascipt.</p>
+                        <p>Hierin heb ik een SCRUM les gehad. (Dit is een manier van werken). Hierna ben ik in een team gestapt om met scrum een opdracht te maken.De opdracht was een verlanglijst maken. Deze opdracht hadden we in 2 dagen af en gepresenteerd
+                            en online gezet op heroku. Dit verlanglijst is opgemaakt in HTML CSS en Javascipt.</p>
                         <a href="https://wishlistproject.herokuapp.com/" target="_blank" class="btn btn-primary">Verlanglijstje</a>
                     </div>
                     <div class="col" data-aos="fade-up-left">
@@ -196,7 +196,9 @@
                         <a href="/contact/index.php" target="_blank" class="btn btn-primary">Contact</a>
                     </div>
                     <div class="w-100"></div>
-                    <div class="col">Week 5</div>
+                    <div class="col"><h4>Week 5</h4>
+                    <p>Hier zijn wij verder gegaan met PHP.</p>
+                    </div>
                     <div class="col">Week 6</div>
                     <div class="w-100"></div>
                     <div class="col">Week 7</div>
@@ -314,8 +316,9 @@
     <div id="section42" class="container-fluid " style="padding-top:70px;padding-bottom:70px;">
         <div class="w3-content w3-section" style="max-width:500px">
             <img class="mySlides" src="foto/Schermafbeelding 2018-12-21 om 16.01.21.png" style="width:70%" alt="Responsive image">
-            <img class="mySlides" src="foto/Schermafbeelding 2018-12-21 om 16.01.35.png" style="width:70% alt="Responsive image">
+            <img class="mySlides" src="foto/Schermafbeelding 2018-12-21 om 16.01.35.png" style="width:70%" alt="Responsive image">
             <img class="mySlides" src="foto/Hackaton1.png" style="width:100%" alt="Responsive image">
+             <img class="mySlides" src="foto/IMG_6200.jpg" style="width:100%" alt="Responsive image">
         </div>
     </div>
 
@@ -329,12 +332,12 @@
         <a href="https://www.linkedin.com/in/marcella-hadderingh-013115176/"><i id="social-in" class="fa fa-linkedin-square fa-3x social"></i></a>
         <a href="https://github.com/MarcellaHadderingh"><i id="social-gi" class="fa fa-github-square fa-3x social"></i></a>
     </footer>
-</body>
 
 
 
 
 
+    </body>
 
 <!-----Javascript------------>
 <script src="https://unpkg.com/aos@2.3.1/dist/aos.js "></script>
@@ -363,6 +366,6 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js " integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49 " crossorigin="anonymous "></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js " integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy " crossorigin="anonymous "></script>
 
-</body>
+
 
 </html>
