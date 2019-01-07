@@ -227,7 +227,7 @@
                         <h4><i class="fab fa-html5"></i> HTML</h4>
                         <li>
                             <div class="progress">
-                                <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:90%">
+                                <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:90%">
                                     90%
                                 </div>
                             </div>
@@ -235,7 +235,7 @@
                         <h4><i class="fab fa-css3-alt"></i> CSS</h4>
                         <li>
                             <div class="progress">
-                                <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:90%">
+                                <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:90%">
                                     90%
                                 </div>
                             </div>
@@ -243,7 +243,7 @@
                         <h4><i class="fab fa-github"></i> Git/Github</h4>
                         <li>
                             <div class="progress">
-                                <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:77%">
+                                <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:77%">
                                     77%
                                 </div>
                             </div>
@@ -251,7 +251,7 @@
                         <h4><i class="far fa-file-code"></i> VSCode</h4>
                         <li>
                             <div class="progress">
-                                <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:89%">
+                                <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:89%">
                                     89%
                                 </div>
                             </div>
@@ -259,7 +259,7 @@
                         <h4><i class="fab fa-js-square"></i> Javascript</h4>
                         <li>
                             <div class="progress">
-                                <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:10%">
+                                <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:10%">
                                     10%
                                 </div>
                             </div>
@@ -267,7 +267,7 @@
                         <h4><i class="fas fa-file-code"></i> Bootstrap</h4>
                         <li>
                             <div class="progress">
-                                <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:70%">
+                                <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:70%">
                                     70%
                                 </div>
                             </div>
@@ -275,7 +275,7 @@
                         <h4><i class="fab fa-php"></i> PHP</h4>
                         <li>
                             <div class="progress">
-                                <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:10%">
+                                <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:10%">
                                     10%
                                 </div>
                             </div>
@@ -283,7 +283,7 @@
                         <h4>Laravel</h4>
                         <li>
                             <div class="progress">
-                                <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:0%">
+                                <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:0%">
                                     0%
                                 </div>
                             </div>
@@ -291,7 +291,7 @@
                         <h4>VUEJS</h4>
                         <li>
                             <div class="progress">
-                                <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:0%">
+                                <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:0%">
                                     0%
                                 </div>
                             </div>
