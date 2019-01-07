@@ -134,8 +134,16 @@ img {
 }
 
 #linked {
-    color: #0077B5;
+    color: black;
     ;
+}
+
+#linked:hover {
+    color: #0077B5;
+}
+
+#git:hover {
+    color: crimson;
 }
 
 #git {
