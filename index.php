@@ -68,6 +68,7 @@
                 <a class="nav-link" href="/contact/index.php">Contact</a>
             </li>
         </ul>
+        </div>
     </nav>
 
     <!--Section1-->
@@ -191,7 +192,8 @@
                         <a href="https://wishlistproject.herokuapp.com/" target="_blank" class="btn btn-primary">Verlanglijstje</a>
                     </div>
                     <div class="col" data-aos="fade-up-left">
-                        <h3>Week 4</h3>
+                        <br>
+                         <h3>Week 4</h3>
                         <p>In week 4 zijn wij begonnen met PHP.Ik heb mijn contact formulier met PHP gemaakt.Als je deze verzend krijg ik hier een email van.</p>
                         <a href="/contact/index.php" target="_blank" class="btn btn-primary">Contact</a>
                     </div>
@@ -215,12 +217,11 @@
             </div>
         </div>
     </div>
-    </div>
+   
 
 
     <!--Section41-->
-    </div>
-    <div id="section41" class="container-fluid " style="padding-top:70px;padding-bottom:70px;margin-bottom:150px;">
+   <div id="section41" class="container-fluid " style="padding-top:70px;padding-bottom:70px;margin-bottom:150px;">
         <div id="progress">
             <div class="row">
                 <div class="col-sm-4">
