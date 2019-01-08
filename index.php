@@ -26,10 +26,10 @@
     <header>
         <div class="imgtext">
             <h1>Hello, I am Marcella Hadderingh<br>And i am a Junior Webdeveloper.</h1>
-           
+
             <a href="https://www.linkedin.com/in/marcella-hadderingh-013115176/"><i id="linked" class="fa fa-linkedin-square fa-3x social"></i></a>
             <a href="https://github.com/MarcellaHadderingh"><i id="git" class="fa fa-github-square fa-3x social"></i></a>
- <div class="button">
+            <div class="button">
                 <a href="#section1" class="bttn">About Me<br><i class="fas fa-chevron-down"></i></a>
             </div>
         </div>
@@ -39,36 +39,34 @@
     </header>
 
     <!--Nav-->
-    <nav class="navbar navbar-expand-sm bg-dark navbar-dark sticky-top">
+    <nav class="navbar navbar-expand-lg bg-dark navbar-dark sticky-top">
         <a href="/index.php"><img src="foto/mhd-logo-white.svg" alt="logo"></a>
-        <button class="navbar-toggler toggler-example" type="button" data-toggle="collapse" data-target="#navbarSupportedContent1"
-    aria-controls="navbarSupportedContent1" aria-expanded="false" aria-label="Toggle navigation"><span class="dark-blue-text"><i
-        class="fas fa-bars fa-1x"></i></span></button>
+        <button class="navbar-toggler toggler-example" type="button" data-toggle="collapse" data-target="#navbarSupportedContent1" aria-controls="navbarSupportedContent1" aria-expanded="false" aria-label="Toggle navigation"><span class="dark-blue-text"><i class="fas fa-bars fa-1x"></i></span></button>
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent1">
-        <ul class="navbar-nav">
-            <li class="nav-item">
-                <a class="nav-link" href="#section1">About</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#section2">Curriculum Vitae</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#section3">Portfolio</a>
-            </li>
-            <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
-                    Skills
-                </a>
-                <div class="dropdown-menu">
-                    <a class="dropdown-item" href="#section41">Pogress</a>
-                    <a class="dropdown-item" href="#section42">Slideshow</a>
-                </div>  
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="/contact/index.php">Contact</a>
-            </li>
-        </ul>
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="#section1">About</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#section2">Curriculum Vitae</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#section3">Portfolio</a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+                        Skills
+                    </a>
+                    <div class="dropdown-menu">
+                        <a class="dropdown-item" href="#section41">Pogress</a>
+                        <a class="dropdown-item" href="#section42">Slideshow</a>
+                    </div>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/contact/index.php">Contact</a>
+                </li>
+            </ul>
         </div>
     </nav>
 
@@ -125,7 +123,7 @@
         <div id="space">
             <h1><i class=" fas fa-graduation-cap "></i>Opleidigen</h1>
             <ul>
-                <li><strong>2018-2019</strong><br>Opleiding Junior Web Developer Code Gorilla<br> Op dit moment nog mee bezig</li>
+                <li><strong>2018-2019</strong><br><img src="/foto/CodeGorilla.png" style="width: 7%"><br>Opleiding Junior Web Developer Code Gorilla<br> Op dit moment nog mee bezig</li>
                 <li><strong>2008</strong><br> Aspirant schipper(vol matroos)</li>
                 <li><strong>2004-2006</strong><br> Het stedelijk luyceum<br> Locatie Boddenkamp te Enschede<br> Niveau VMBO-Consumptief<br> Diploma behaald in 2006</li>
             </ul>
@@ -140,11 +138,12 @@
             <h2><i class="fas fa-briefcase"></i> Werk ervaring
             </h2>
             <ul>
+               <li><strong>2018-2019</strong><br><img src="/foto/CodeGorilla.png" style="width: 7%"><br>Code Gorilla<br> Functie: Junior webdeveloper</li>
                 <li><strong>2015-2016</strong><br> CCS Cleaning<br> Functie: Schoonmaakster</li>
                 <li><strong> 2010-2012</strong><br> Fc-Twente
                     <br> Functie:Steward
                 </li>
-                <li><strong>2009-2011</strong><br> Verschillende banen in de sector van de Binnenvaart<br> Functie:Matroos
+                <li><strong>2009-2013</strong><br> Verschillende banen in de sector van de Binnenvaart<br>Functie:Matroos <i class="fas fa-anchor"></i>
                     <br></li>
                 <li><strong>2007-2008</strong><br> Sanders Supermarkt<br> Functie: Verkoopmedewerkster Slagerij</li>
                 <li><strong>2007-2007</strong><br> Mc Donalds<br> Functie:FastFood medewerkster</li>
@@ -162,7 +161,7 @@
                     <img src="foto/hackaton.png" style="width: 60%" alt="Responsive image">
                 </div>
                 <h1>Hackaton</h1>
-                <p>Op 29 November 2018 heb ik meegedaan aan een hackaton. <br> Deze werd georganiseerd door Code Gorilla. <br> Aan de hand van deze hackaton ben ik door gegaan naar de Bootcamp om mee te mogen doen aan de opleiding tot Junior web developer.<br>                    Tijdens deze hackaton was onze opdracht om een website te maken voor CEECEE Comunity. <br> Dit gebeurde in team verband.<br> Zie de link voor mijn resultaat.
+                <p>Op 29 November 2018 heb ik meegedaan aan een hackaton. <br> Deze werd georganiseerd door Code Gorilla. <br> Aan de hand van deze hackaton ben ik door gegaan naar de Bootcamp om mee te mogen doen aan de opleiding tot Junior web developer.<br> Tijdens deze hackaton was onze opdracht om een website te maken voor CEECEE Comunity. <br> Dit gebeurde in team verband.<br> Zie de link voor mijn resultaat.
                 </p>
                 <a href="/hackaton/index.html" target="_blank" class="btn btn-primary">Hackaton</a>
             </div>
@@ -194,13 +193,14 @@
                         <a href="https://wishlistproject.herokuapp.com/" target="_blank" class="btn btn-primary">Verlanglijstje</a>
                     </div>
                     <div class="col" data-aos="fade-up-left" style="margin-top:280px">
-                         <h3>Week 4</h3>
+                        <h3>Week 4</h3>
                         <p>In week 4 zijn wij begonnen met PHP. Ik heb mijn contact formulier met PHP gemaakt. Als je deze verzend krijg ik hier een email van. Helaas werkt dit nog niet met Heroku. Ik ben hier nog mee bezig.</p>
                         <a href="/contact/index.php" target="_blank" class="btn btn-primary">Contact</a>
                     </div>
                     <div class="w-100"></div>
-                    <div class="col" data-oas="fade-up-right" style="margin-top:40px"><h4>Week 5</h4>
-                    <p>Hier zijn wij verder gegaan met PHP.</p>
+                    <div class="col" data-oas="fade-up-right" style="margin-top:40px">
+                        <h4>Week 5</h4>
+                        <p>Hier ben ik verder gegaan met PHP.Ook ben ik begonnen met MySql, en heb ik een database aangemaakt.</p>
                     </div>
                     <div class="col">Week 6</div>
                     <div class="w-100"></div>
@@ -218,11 +218,11 @@
             </div>
         </div>
     </div>
-   
+
 
 
     <!--Section41-->
-   <div id="section41" class="container-fluid " style="padding-top:70px;padding-bottom:70px;margin-bottom:150px;">
+    <div id="section41" class="container-fluid " style="padding-top:70px;padding-bottom:70px;margin-bottom:150px;">
         <div id="progress">
             <div class="row">
                 <div class="col-sm-4">
@@ -231,16 +231,16 @@
                         <h4><i class="fab fa-html5"></i> HTML</h4>
                         <li>
                             <div class="progress">
-                                <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:90%">
-                                    90%
+                                <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:98%">
+                                    98%
                                 </div>
                             </div>
                         </li>
                         <h4><i class="fab fa-css3-alt"></i> CSS</h4>
                         <li>
                             <div class="progress">
-                                <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:90%">
-                                    90%
+                                <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:98%">
+                                    98%
                                 </div>
                             </div>
                         </li>
@@ -263,16 +263,16 @@
                         <h4><i class="fab fa-js-square"></i> Javascript</h4>
                         <li>
                             <div class="progress">
-                                <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:20%">
-                                    20%
+                                <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:40%">
+                                    40%
                                 </div>
                             </div>
                         </li>
                         <h4><i class="fas fa-file-code"></i> Bootstrap</h4>
                         <li>
                             <div class="progress">
-                                <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:77%">
-                                    77%
+                                <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:80%">
+                                    80%
                                 </div>
                             </div>
                         </li>
@@ -292,7 +292,14 @@
                                 </div>
                             </div>
                         </li>
-                        <h4>Laravel</h4>
+                        <h4>MySql</h4>
+                        <li>
+                            <div class="progress">
+                                <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:0%">
+                                    0%
+                                </div>
+                            </div>
+                            <h4>Laravel</h4>
                         <li>
                             <div class="progress">
                                 <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:0%">
@@ -310,46 +317,49 @@
                         </li>
                     </ul>
                 </div>
+                <div class="col-sm-4">
+
+                </div>
             </div>
         </div>
-    </div>
 
-    <!--Section42-->
-    <div id="section42" class="container-fluid " style="padding-top:70px;padding-bottom:70px;">
-        <div class="w3-content w3-section" style="max-width:500px";>
-            <img class="mySlides" src="foto/Schermafbeelding 2018-12-21 om 16.01.21.png" style="width:70%" alt="Responsive image">
-            <img class="mySlides" src="foto/Schermafbeelding 2018-12-21 om 16.01.35.png" style="width:70%" alt="Responsive image">
-            <img class="mySlides" src="foto/Hackaton1.png" style="width:100%" alt="Responsive image">
-             <img class="mySlides" src="foto/IMG_6200.jpg" style="width:100%" alt="Responsive image">
-             <img class="mySlides" src="foto/hackaton.png" style="width:100%" alt="Responsive image">
-             <img class="mySlides" src="foto/Wishlist.png" style="width:100%" alt="Responsive image">
-             <img class="mySlides" src="foto/contactform.png" style="width:100%" alt="Responsive image">
-             <img class="mySlides" src="foto/contactlist.png" style="width:100%" alt="Responsive image">          
-             
+        <!--Section42-->
+        <div id="section42" class="container-fluid " style="padding-top:70px;padding-bottom:70px;">
+            <div class="w3-content w3-section" style="max-width:500px" ;>
+                <img class="mySlides" src="foto/Schermafbeelding 2018-12-21 om 16.01.21.png" style="width:70%" alt="Responsive image">
+                <img class="mySlides" src="foto/Schermafbeelding 2018-12-21 om 16.01.35.png" style="width:70%" alt="Responsive image">
+                <img class="mySlides" src="foto/Hackaton1.png" style="width:100%" alt="Responsive image">
+                <img class="mySlides" src="foto/IMG_6200.jpg" style="width:100%" alt="Responsive image">
+                <img class="mySlides" src="foto/hackaton.png" style="width:100%" alt="Responsive image">
+                <img class="mySlides" src="foto/Wishlist.png" style="width:100%" alt="Responsive image">
+                <img class="mySlides" src="foto/contactform.png" style="width:100%" alt="Responsive image">
+                <img class="mySlides" src="foto/contactlist.png" style="width:100%" alt="Responsive image">
+
+            </div>
         </div>
-    </div>
 
 
 
 
 
-    <!--Footer-->
-    <footer>Copyright &copy; 2019 Hadderingh. Alle rechten voorbehouden.<br>
-        <a href="mailto:marcellavanduyn@gmail.com"><i id="social-em" class="fa fa-envelope-square fa-3x social"></i></a>
-        <a href="https://www.linkedin.com/in/marcella-hadderingh-013115176/"><i id="social-in" class="fa fa-linkedin-square fa-3x social"></i></a>
-        <a href="https://github.com/MarcellaHadderingh"><i id="social-gi" class="fa fa-github-square fa-3x social"></i></a>
-    </footer>
+        <!--Footer-->
+        <footer>Copyright &copy; 2019 Hadderingh. Alle rechten voorbehouden.<br>
+            <a href="mailto:marcellavanduyn@gmail.com"><i id="social-em" class="fa fa-envelope-square fa-3x social"></i></a>
+            <a href="https://www.linkedin.com/in/marcella-hadderingh-013115176/"><i id="social-in" class="fa fa-linkedin-square fa-3x social"></i></a>
+            <a href="https://github.com/MarcellaHadderingh"><i id="social-gi" class="fa fa-github-square fa-3x social"></i></a>
+        </footer>
 
 
 
 
 
-    </body>
+</body>
 
 <!-----Javascript------------>
 <script src="https://unpkg.com/aos@2.3.1/dist/aos.js "></script>
 <script>
     AOS.init();
+
 </script>
 <script>
     var myIndex = 0;
@@ -368,6 +378,7 @@
         x[myIndex - 1].style.display = "block";
         setTimeout(carousel, 2000); // Change image every 2 seconds
     }
+
 </script>
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js " integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo " crossorigin="anonymous "></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js " integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49 " crossorigin="anonymous "></script>
