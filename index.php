@@ -33,6 +33,7 @@
                 <a href="#section1" class="bttn">About Me<br><i class="fas fa-chevron-down"></i></a>
             </div>
         </div>
+        
 
         <img src="foto/picjumbo.com_IMG_4923.jpg" class="img-fluid" alt="Responsive image">
 
@@ -316,10 +317,10 @@
                             </div>
                         </li>
                     </ul>
-                </div>
-            
+                </div>  
             </div>
         </div>
+         </div>
 
         <!--Section42-->
         <div id="section42" class="container-fluid " style="padding-top:70px;padding-bottom:70px;">
@@ -349,7 +350,7 @@
         </footer>
 
 
-
+   
 
 
 </body>
