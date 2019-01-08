@@ -77,7 +77,7 @@
                 <h1>Marcella Hadderingh</h1>
                 <br>
                 <p>
-                    Altijd al ben ik enorm geÃ¯nteresseerd in gamen, gadgets, techniek en het aansluiten/uitvogelen ervan, hier kan ik dan ook uren zoet mee zijn. Ik vind het leuk om met mijn handen te werken en iets moois te creÃ«eren.</p>
+                    Altijd al ben ik enorm geïnteresseerd in gamen, gadgets, techniek en het aansluiten/uitvogelen ervan, hier kan ik dan ook uren zoet mee zijn. Ik vind het leuk om met mijn handen te werken en iets moois te creëeren.</p>
 
                 <p>Vrienden en familieleden bellen mij altijd voor het aansluiten en installeren van allerlei apparatuur en software, dit doe ik met veel plezier. Ook heb ik recentelijk een kennis geholpen met hun website (vertaalbureau), dit vond ik zo
                     leuk dat ik daarom graag nieuwe vaardigheden wil leren en kennis op wil doen om hier uiteindelijk mijn werk van te kunnen maken.</p>
@@ -317,8 +317,7 @@
                         </li>
                     </ul>
                 </div>
-
-                </div>
+            
             </div>
         </div>
 
@@ -336,6 +335,7 @@
 
             </div>
         </div>
+
 
 
 
