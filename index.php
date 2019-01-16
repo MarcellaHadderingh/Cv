@@ -224,10 +224,10 @@
 
 
     <!--Section41-->
-    <div id="section41" class="container-fluid " style="padding-top:70px;padding-bottom:70px;margin-bottom:150px;">
+    <div id="section41" class="container-fluid " style="padding-top:70px;padding-bottom:70px;margin-bottom:350px;">
         <div id="progress">
-            <div class="row">
-                <div class="col-4">
+            <div class='row'>
+                <div class="col-sm-4">
                     <ul>
                         <h1>Progress</h1>
                         <h4><i class="fab fa-html5"></i> HTML</h4>
@@ -311,8 +311,7 @@
                             </div>
                         </li>
                     </ul>
-                </div>  
-                <div class="col">
+                </div> 
                     <div class="check">
                     <ul>  
                     <h1>Programs</h1>
@@ -328,11 +327,9 @@
                     </ul>
                 </div>
             </div>
-        </div>
+        
+            </div>
     </div>
- </div>
-        </div>
-         </div>
 
         <!--Section42-->
         <div id="section42" class="container-fluid " style="padding-top:70px;padding-bottom:70px;">
