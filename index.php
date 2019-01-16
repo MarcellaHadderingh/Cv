@@ -314,44 +314,18 @@
                 </div>  
                 <div class="col">
                     <div class="check">
-                    <ul>   
-                        <li>
-                        <h1>Programs</h1>
-                        <label class="checklist">HTML<input type="checkbox" checked="checked"><span class="checkmark">
-                            </span>
-                        </label>
-                        <label class="checklist">CSS<input type="checkbox" checked="checked"><span class="checkmark">
-                            </span>
-                        </label>
-                        <label class="checklist">JavaScript<input type="checkbox" checked="checked"><span class="checkmark">
-                            </span>
-                        </label>
-                        <label class="checklist">PHP<input type="checkbox" checked="checked"><span class="checkmark">
-                            </span>
-                        </label>
-                        <label class="checklist">Bootstrap<input type="checkbox" checked="checked"><span class="checkmark">
-                            </span>
-                        </label>
-                        <label class="checklist">Git<input type="checkbox" checked="checked"><span class="checkmark">
-                            </span>
-                        </label>
-                        <label class="checklist">VSCode<input type="checkbox" checked="checked"><span class="checkmark">
-                            </span>
-                        </label>
-                        <label class="checklist">SQL<input type="checkbox" checked="checked"><span class="checkmark">
-                            </span>
-                        </label>
-                        <label class="checklist">Scrum<input type="checkbox" checked="checked"><span class="checkmark">
-                            </span>
-                        </label>
-                        <label class="checklist">Laravel<input type="checkbox"><span class="checkmark">
-                            </span>
-                        </label>
-                        <label class="checklist">VUEJS<input type="checkbox"><span class="checkmark">
-                            </span>
-                        </label>
-                    </li>
-                </ul>
+                    <ul>  
+                    <h1>Programs</h1>
+                     <li><h3><i  id= "check" class="fas fa-check-circle"></i> HTML</h3></li>
+                     <li><h3><i  id= "check" class="fas fa-check-circle"></i> CSS</h3></li>
+                     <li><h3><i  id= "check" class="fas fa-check-circle"></i> Javascipt</h3></li>
+                     <li><h3><i  id= "check" class="fas fa-check-circle"></i> PHP</h3></li>
+                     <li><h3><i  id= "check" class="fas fa-check-circle"></i> Bootstrap</h3></li>
+                     <li><h3><i  id= "check" class="fas fa-check-circle"></i> Git</h3></li>
+                     <li><h3><i  id= "check" class="fas fa-check-circle"></i> VSCode</h3></li>
+                     <li><h3><i  id= "check" class="fas fa-check-circle"></i> SQL</h3></li>
+                     <li><h3><i  id= "check" class="fas fa-check-circle"></i> Scrum</h3></li>
+                    </ul>
                 </div>
             </div>
         </div>
