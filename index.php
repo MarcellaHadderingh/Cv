@@ -77,17 +77,13 @@
             <div class="col-8" data-aos="flip-up" data-aos-duration="1500">
                 <h1>Marcella Hadderingh</h1>
                 <br>
-                <p>
-                    Altijd al ben ik enorm geïnteresseerd in gamen, gadgets, techniek en het aansluiten/uitvogelen ervan, hier kan ik dan ook uren zoet mee zijn. Ik vind het leuk om met mijn handen te werken en iets moois te creëeren.</p>
-
-                <p>Vrienden en familieleden bellen mij altijd voor het aansluiten en installeren van allerlei apparatuur en software, dit doe ik met veel plezier. Ook heb ik recentelijk een kennis geholpen met hun website (vertaalbureau), dit vond ik zo
-                    leuk dat ik daarom graag nieuwe vaardigheden wil leren en kennis op wil doen om hier uiteindelijk mijn werk van te kunnen maken.</p>
-
-                <p>Dus ben ik op zoek gegaan naar een opleiding/omscholing en ben ik terecht gekomen bij CodeGorilla voor de omscholing tot Junior Webdeveloper.</p>
-
-                <p>Dit project is voor mij een uitkomst met het oog op mijn gezin op financieel vlak omdat ik redelijk snel de arbeidsmarkt weer op kan maar voornamelijk op persoonlijk vlak, want het zou mij enorm veel voldoening geven om een baan te hebben
-                    die ik leuk vind, die bij mij past en waarin ik verder kan groeien.</p>
-
+                <p>Altijd al ben ik enorm geïnteresseerd in gamen, gadgets, techniek en het aansluiten/uitvogelen ervan, hier kan ik dan ook uren zoet mee zijn. 
+                    Ik vind het leuk om met mijn handen te werken en iets moois te creëeren.</p>
+                    <p>Vrienden en familieleden bellen mij altijd voor het aansluiten en installeren van allerlei apparatuur en software, dit vind ik zo leuk dat ik daarom graag nieuwe vaardigheden wil leren en kennis op wil doen om hier uiteindelijk mijn werk van te kunnen maken.
+                    </p>
+                <p>Dus ben ik op zoek gegaan naar een opleiding/omscholing en ben ik terecht gekomen bij CodeGorilla voor de omscholing tot Junior Webdeveloper.
+                </p>
+                <p>Dit project is voor mij een uitkomst met het oog op mijn gezin op financieel vlak omdat ik redelijk snel de arbeidsmarkt weer op kan maar voornamelijk op persoonlijk vlak, want het zou mij enorm veel voldoening geven om een baan te hebben die ik leuk vind, die bij mij past en waarin ik verder kan groeien.</p>
                 <p>Ik zit helemaal op mijn plek hier want wat ik nu doe en leer vind ik ontzettend leuk ook al ben ik pas net begonnen ik wil ontzettend graag alles op dit vlak leren en hier mijn werk van maken. Hierin zie ik mijn toekomst.</p>
             </div>
         </div>
@@ -280,24 +276,24 @@
                         <h4><i class="fab fa-php"></i> PHP</h4>
                         <li>
                             <div class="progress">
-                                <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:14%">
-                                    14%
+                                <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:60%">
+                                    60%
                                 </div>
                             </div>
                         </li>
                         <h4>SQL</h4>
                         <li>
                             <div class="progress">
-                                <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:0%">
-                                    0%
+                                <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:30%">
+                                    30%
                                 </div>
                             </div>
                         </li>
                         <h4>MySql</h4>
                         <li>
                             <div class="progress">
-                                <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:0%">
-                                    0%
+                                <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:30%">
+                                    30%
                                 </div>
                             </div>
                             <h4>Laravel</h4>
@@ -318,6 +314,11 @@
                         </li>
                     </ul>
                 </div>  
+                <div class="col-sm-4">
+        
+            </div>
+        </div>
+                </div>
             </div>
         </div>
          </div>
