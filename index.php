@@ -341,10 +341,13 @@
                         <label class="checklist">SQL<input type="checkbox" checked="checked"><span class="checkmark">
                             </span>
                         </label>
+                        <label class="checklist">Scrum<input type="checkbox" checked="checked"><span class="checkmark">
+                            </span>
+                        </label>
                         <label class="checklist">Laravel<input type="checkbox"><span class="checkmark">
                             </span>
                         </label>
-                        <label class="checklist">Angular<input type="checkbox"><span class="checkmark">
+                        <label class="checklist">VUEJS<input type="checkbox"><span class="checkmark">
                             </span>
                         </label>
                     </li>
