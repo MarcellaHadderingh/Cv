@@ -227,7 +227,7 @@
     <div id="section41" class="container-fluid " style="padding-top:70px;padding-bottom:70px;margin-bottom:150px;">
         <div id="progress">
             <div class="row">
-                <div class="col-sm-4">
+                <div class="col-4">
                     <ul>
                         <h1>Progress</h1>
                         <h4><i class="fab fa-html5"></i> HTML</h4>
