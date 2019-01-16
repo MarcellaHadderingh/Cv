@@ -27,8 +27,8 @@
         <div class="imgtext">
             <h1>Hello, I am Marcella Hadderingh<br>And i am a Junior Webdeveloper.</h1>
 
-            <a href="https://www.linkedin.com/in/marcella-hadderingh-013115176/"><i id="linked" class="fa fa-linkedin-square fa-3x social"></i></a>
-            <a href="https://github.com/MarcellaHadderingh"><i id="git" class="fa fa-github-square fa-3x social"></i></a>
+            <a href="https://www.linkedin.com/in/marcella-hadderingh-013115176/" target="_blank"><i id="linked" class="fa fa-linkedin-square fa-3x social"></i></a>
+            <a href="https://github.com/MarcellaHadderingh" target="_blank"><i id="git" class="fa fa-github-square fa-3x social"></i></a>
             <div class="button">
                 <a href="#section1" class="bttn">About Me<br><i class="fas fa-chevron-down"></i></a>
             </div>
@@ -199,7 +199,12 @@
                         <h4>Week 5</h4>
                         <p>Hier ben ik verder gegaan met PHP.Ook ben ik begonnen met MySql, en heb ik een database aangemaakt.</p>
                     </div>
-                    <div class="col">Week 6</div>
+                    <div class="col" data-oas="fade-up-left" style="margin-top:40px">
+                    <h3>Week 6</h3>
+                    <p>Hier in ben ik aan het werk gegaan met PHP, MYSQL en SQL. Ik ben een voorbeeld webshop gemaakt. Het gaat er voornamelijk om dat ik kan werken met PHP en Database.</p>
+                    <a href="#" target="_blank" class="btn btn-primary">Webshop</a>
+   
+                </div>
                     <div class="w-100"></div>
                     <div class="col">Week 7</div>
                     <div class="col">Week 8</div>
@@ -289,13 +294,6 @@
                                 </div>
                             </div>
                         </li>
-                        <h4>MySql</h4>
-                        <li>
-                            <div class="progress">
-                                <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:30%">
-                                    30%
-                                </div>
-                            </div>
                             <h4>Laravel</h4>
                         <li>
                             <div class="progress">
@@ -315,7 +313,43 @@
                     </ul>
                 </div>  
                 <div class="col-sm-4">
-        
+                    <div class="check">
+                    <ul>   
+                        <li>
+                        <h1>Programs</h1>
+                        <label class="checklist">HTML<input type="checkbox" checked="checked"><span class="checkmark">
+                            </span>
+                        </label>
+                        <label class="checklist">CSS<input type="checkbox" checked="checked"><span class="checkmark">
+                            </span>
+                        </label>
+                        <label class="checklist">JavaScript<input type="checkbox" checked="checked"><span class="checkmark">
+                            </span>
+                        </label>
+                        <label class="checklist">PHP<input type="checkbox" checked="checked"><span class="checkmark">
+                            </span>
+                        </label>
+                        <label class="checklist">Bootstrap<input type="checkbox" checked="checked"><span class="checkmark">
+                            </span>
+                        </label>
+                        <label class="checklist">Git<input type="checkbox" checked="checked"><span class="checkmark">
+                            </span>
+                        </label>
+                        <label class="checklist">VSCode<input type="checkbox" checked="checked"><span class="checkmark">
+                            </span>
+                        </label>
+                        <label class="checklist">SQL<input type="checkbox" checked="checked"><span class="checkmark">
+                            </span>
+                        </label>
+                        <label class="checklist">Laravel<input type="checkbox"><span class="checkmark">
+                            </span>
+                        </label>
+                        <label class="checklist">Angular<input type="checkbox"><span class="checkmark">
+                            </span>
+                        </label>
+                    </li>
+                </ul>
+                </div>
             </div>
         </div>
                 </div>
@@ -345,9 +379,9 @@
 
         <!--Footer-->
         <footer>Copyright &copy; 2019 Hadderingh. Alle rechten voorbehouden.<br>
-            <a href="mailto:marcellavanduyn@gmail.com"><i id="social-em" class="fa fa-envelope-square fa-3x social"></i></a>
-            <a href="https://www.linkedin.com/in/marcella-hadderingh-013115176/"><i id="social-in" class="fa fa-linkedin-square fa-3x social"></i></a>
-            <a href="https://github.com/MarcellaHadderingh"><i id="social-gi" class="fa fa-github-square fa-3x social"></i></a>
+            <a href="mailto:marcellavanduyn@gmail.com" target="_blank"><i id="social-em" class="fa fa-envelope-square fa-3x social"></i></a>
+            <a href="https://www.linkedin.com/in/marcella-hadderingh-013115176/" target="_blank"><i id="social-in" class="fa fa-linkedin-square fa-3x social"></i></a>
+            <a href="https://github.com/MarcellaHadderingh" target="_blank"><i id="social-gi" class="fa fa-github-square fa-3x social"></i></a>
         </footer>
 
 
