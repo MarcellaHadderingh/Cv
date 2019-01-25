@@ -411,18 +411,18 @@
     <div id="section42" class="container-fluid " style="padding-top:70px;padding-bottom:70px;">
         <div class="w3-content w3-section" style="max-width:500px" ;>
             <img class="mySlides" src="foto/IMG_6744.PNG" style="width:70%" alt="Responsive image">
-            <img class="mySlides" src="foto/Schermafbeelding 2018-12-21 om 16.01.21.png" style="width:70%" alt="Responsive image">
-            <img class="mySlides" src="foto/Schermafbeelding 2018-12-21 om 16.01.35.png" style="width:70%" alt="Responsive image">
+            <img class="mySlides" src="foto/Schermafbeelding2.png" style="width:70%" alt="Responsive image">
+            <img class="mySlides" src="foto/schermafbeelding1.png" style="width:70%" alt="Responsive image">
             <img class="mySlides" src="foto/Hackaton1.png" style="width:100%" alt="Responsive image">
             <img class="mySlides" src="foto/IMG_6200.jpg" style="width:100%" alt="Responsive image">
             <img class="mySlides" src="foto/hackaton.png" style="width:100%" alt="Responsive image">
             <img class="mySlides" src="foto/Wishlist.png" style="width:100%" alt="Responsive image">
             <img class="mySlides" src="foto/contactform.png" style="width:100%" alt="Responsive image">
             <img class="mySlides" src="foto/contactlist.png" style="width:100%" alt="Responsive image">
-            <img class="mySlides" src="#" style="width:100%" alt="Responsive image">
+            <img class="mySlides" id="turn" src="/foto/IMG_6315.JPG" style="width:100%"  alt="Responsive image">
             <img class="mySlides" src="foto/IMG_6433.PNG" style="width:100%" alt="Responsive image">
             <img class="mySlides" src="foto/contactlist.png" style="width:100%" alt="Responsive image">
-            <img class="mySlides" src="#" style="width:100%" alt="Responsive image">
+            <img class="mySlides" id="turn" src="/foto/IMG_6658.JPG" style="width:100%" alt="Responsive image">
 
 
 
