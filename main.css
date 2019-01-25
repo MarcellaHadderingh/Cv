@@ -10,6 +10,12 @@
             background-size: cover;
             font-family: 'Roboto Slab', serif;
         }
+        
+        @media only screen and (max-width: 767px) {
+            body {
+                background-image: url(foto/portfolio-background-images.png);
+            }
+        }
         /*head*/
         
         .img-fluid {
