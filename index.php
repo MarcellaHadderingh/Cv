@@ -203,10 +203,11 @@
                     <h3>Week 6</h3>
                     <p>Hier in ben ik aan het werk gegaan met PHP, MYSQL en SQL. Ik ben een voorbeeld webshop gemaakt. Het gaat er voornamelijk om dat ik kan werken met PHP en Database.</p>
                     <a href="#" target="_blank" class="btn btn-primary">Webshop</a>
-   
                 </div>
                     <div class="w-100"></div>
-                    <div class="col">Week 7</div>
+                    <div class="col" data-oas="fade-up-right" style="margin-top:40px"><h4>Week 7</h4>
+                <p>Hierin ben ik bezig geweest met homestead en laraval.</p>
+                </div>
                     <div class="col">Week 8</div>
                     <div class="w-100"></div>
                     <div class="col">Week 9</div>
@@ -297,8 +298,8 @@
                             <h4>Laravel</h4>
                         <li>
                             <div class="progress">
-                                <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:0%">
-                                    0%
+                                <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:10%">
+                                    10%
                                 </div>
                             </div>
                         </li>
@@ -324,6 +325,7 @@
                      <li><h3><i  id= "check" class="fas fa-check-circle"></i> VSCode</h3></li>
                      <li><h3><i  id= "check" class="fas fa-check-circle"></i> SQL</h3></li>
                      <li><h3><i  id= "check" class="fas fa-check-circle"></i> Scrum</h3></li>
+                     <li><h3><i  id= "check" class="fas fa-check-circle"></i> Laravel</h3></li>
                     </ul>
                 </div>
             </div>
@@ -334,6 +336,7 @@
         <!--Section42-->
         <div id="section42" class="container-fluid " style="padding-top:70px;padding-bottom:70px;">
             <div class="w3-content w3-section" style="max-width:500px" ;>
+            <img class="mySlides" src="foto/IMG_6744.PNG" style="width:70%" alt="Responsive image">
                 <img class="mySlides" src="foto/Schermafbeelding 2018-12-21 om 16.01.21.png" style="width:70%" alt="Responsive image">
                 <img class="mySlides" src="foto/Schermafbeelding 2018-12-21 om 16.01.35.png" style="width:70%" alt="Responsive image">
                 <img class="mySlides" src="foto/Hackaton1.png" style="width:100%" alt="Responsive image">
