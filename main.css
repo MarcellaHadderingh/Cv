@@ -9,6 +9,9 @@
             background-attachment: fixed;
             background-size: cover;
             font-family: 'Roboto Slab', serif;
+            -moz-background-size: cover;
+            -webkit-background-size: cover;
+            -o-background-size: cover;
         }
         
         @media only screen and (max-width: 767px) {
