@@ -5,9 +5,9 @@
         body {
             background-image: url(foto/portfolio-background-images.png);
             background-repeat: no-repeat;
-            background-size: cover;
+            background-position: center center;
             background-attachment: fixed;
-            position: relative;
+            background-size: cover;
             font-family: 'Roboto Slab', serif;
         }
         /*head*/
@@ -197,6 +197,10 @@
         
         .mySlides {
             display: none;
+        }
+        
+        #turn {
+            transform: rotate(90deg);
         }
         /*Social icons*/
         
