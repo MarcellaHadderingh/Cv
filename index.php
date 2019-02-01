@@ -252,7 +252,9 @@
                         <h4>Week 7</h4>
                         <p>Hierin ben ik bezig geweest met homestead en laraval.</p>
                     </div>
-                    <div class="col" data-oas="fade-up-left" style="margin-top:40px"><h4>Week8</h4>
+                    <div class="col" data-oas="fade-up-left" style="margin-top:40px">
+                    <div id="wishlist"><img src="foto/bootcamp.png" alt="bootcamp" style="width: 80%" alt="Responsive image"></div>
+                    <h4>Week8</h4>
                     <p>Hier ben ik verder gegaan met laravel.Ik heb een blog gemaakt over de bootcamp. Er zit een login en register functie in, naam wijzigen, avatar toevoegen, blog toevoegen en terug halen uit de database. Het is versie 1.0 ik ben er nog steeds mee bezig. Het is een bootcamp project. Helaas kan deze nog niet op Heroku of dergelijke ivm database. De code is wel te vinden in mijn Github.
                     </p>
                     <a href="https://github.com/MarcellaHadderingh/laravelblog" target="_blank" class="btn btn-primary">Blog</a>
