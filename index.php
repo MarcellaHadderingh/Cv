@@ -27,7 +27,7 @@
     <!--Header-->
     <header>
         <div class="imgtext">
-            <h1>Hello, I am Marcella Hadderingh<br>And i am a Junior Webdeveloper.</h1>
+            <h1>Hello, I am Marcella Hadderingh<br>And I am a Junior Webdeveloper.</h1>
 
             <a href="https://www.linkedin.com/in/marcella-hadderingh-013115176/" target="_blank"><i id="linked" class="fa fa-linkedin-square fa-3x social"></i></a>
             <a href="https://github.com/MarcellaHadderingh" target="_blank"><i id="git" class="fa fa-github-square fa-3x social"></i></a>
@@ -245,14 +245,18 @@
                         <h3>Week 6</h3>
                         <p>Hier in ben ik aan het werk gegaan met PHP, MYSQL en SQL. Ik ben een voorbeeld webshop
                             gemaakt. Het gaat er voornamelijk om dat ik kan werken met PHP en Database.</p>
-                        <a href="#" target="_blank" class="btn btn-primary">Webshop</a>
+                        <a href="https://github.com/MarcellaHadderingh/webshop" target="_blank" class="btn btn-primary">Webshop</a>
                     </div>
                     <div class="w-100"></div>
                     <div class="col" data-oas="fade-up-right" style="margin-top:40px">
                         <h4>Week 7</h4>
                         <p>Hierin ben ik bezig geweest met homestead en laraval.</p>
                     </div>
-                    <div class="col">Week 8</div>
+                    <div class="col" data-oas="fade-up-left" style="margin-top:40px"><h4>Week8</h4>
+                    <p>Hier ben ik verder gegaan met laravel.Ik heb een blog gemaakt over de bootcamp. Er zit een login en register functie in, naam wijzigen, avatar toevoegen, blog toevoegen en terug halen uit de database. Het is versie 1.0 ik ben er nog steeds mee bezig. Het is een bootcamp project. Helaas kan deze nog niet op Heroku of dergelijke ivm database. De code is wel te vinden in mijn Github.
+                    </p>
+                    <a href="https://github.com/MarcellaHadderingh/laravelblog" target="_blank" class="btn btn-primary">Blog</a>
+                    </div>
                     <div class="w-100"></div>
                     <div class="col">Week 9</div>
                     <div class="col">Week 10</div>
@@ -279,8 +283,8 @@
                         <li>
                             <div class="progress">
                                 <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar"
-                                    aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:98%">
-                                    98%
+                                    aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:99%">
+                                    99%
                                 </div>
                             </div>
                         </li>
@@ -288,8 +292,8 @@
                         <li>
                             <div class="progress">
                                 <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar"
-                                    aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:98%">
-                                    98%
+                                    aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:99%">
+                                    99%
                                 </div>
                             </div>
                         </li>
@@ -297,8 +301,8 @@
                         <li>
                             <div class="progress">
                                 <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar"
-                                    aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:77%">
-                                    75%
+                                    aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:95%">
+                                    95%
                                 </div>
                             </div>
                         </li>
@@ -306,8 +310,8 @@
                         <li>
                             <div class="progress">
                                 <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar"
-                                    aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:89%">
-                                    89%
+                                    aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:97%">
+                                    97%
                                 </div>
                             </div>
                         </li>
@@ -324,8 +328,8 @@
                         <li>
                             <div class="progress">
                                 <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar"
-                                    aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:80%">
-                                    80%
+                                    aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:98%">
+                                    98%
                                 </div>
                             </div>
                         </li>
@@ -342,17 +346,26 @@
                         <li>
                             <div class="progress">
                                 <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar"
-                                    aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:30%">
-                                    30%
+                                    aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:60%">
+                                    60%
                                 </div>
                             </div>
                         </li>
-                        <h4>Laravel</h4>
+                        <h4><i class="fab fa-laravel"></i>Laravel</h4>
                         <li>
                             <div class="progress">
                                 <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar"
-                                    aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:10%">
-                                    10%
+                                    aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:77%">
+                                   77%
+                                </div>
+                            </div>
+                        </li>
+                        <h4><i class="fab fa-linux"></i>Linux</h4>
+                        <li>
+                            <div class="progress">
+                                <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar"
+                                    aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:66%">
+                                   66%
                                 </div>
                             </div>
                         </li>
@@ -365,6 +378,7 @@
                                 </div>
                             </div>
                         </li>
+                        
                     </ul>
                 </div>
                 <div class="check">
@@ -400,6 +414,9 @@
                         <li>
                             <h3><i id="check" class="fas fa-check-circle"></i> Laravel</h3>
                         </li>
+                        <li>
+                            <h3><i id="check" class="fas fa-check-circle"></i> Linux</h3>
+                        </li>
                     </ul>
                 </div>
             </div>
@@ -421,8 +438,10 @@
             <img class="mySlides" src="foto/contactlist.png" style="width:100%" alt="Responsive image">
             <img class="mySlides" id="turn" src="/foto/IMG_6315.JPG" style="width:100%"  alt="Responsive image">
             <img class="mySlides" src="foto/IMG_6433.PNG" style="width:100%" alt="Responsive image">
-            <img class="mySlides" src="foto/contactlist.png" style="width:100%" alt="Responsive image">
             <img class="mySlides" id="turn" src="/foto/IMG_6658.JPG" style="width:100%" alt="Responsive image">
+            <img class="mySlides" src="foto/bootcamp.png" style="width:100%" alt="Responsive image">
+            <img class="mySlides" src="foto/blogsim.png" style="width:100%" alt="Responsive image">
+            <img class="mySlides" src="foto/blogs.png" style="width:100%" alt="Responsive image">
 
 
 
