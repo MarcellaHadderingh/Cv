@@ -8,4 +8,4 @@ CV information.
 Portfolio.
 skills.
 slideshow.
-COntact page.
+Contact page.
