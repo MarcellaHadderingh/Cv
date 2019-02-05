@@ -260,7 +260,14 @@
                     <a href="https://github.com/MarcellaHadderingh/laravelblog" target="_blank" class="btn btn-primary">Blog</a>
                     </div>
                     <div class="w-100"></div>
-                    <div class="col">Week 9</div>
+                    <div class="col"  data-oas="fade-up-right" style="margin-top:40px">
+                    <div id="wishlist"><img src="/foto/logosachtergrond.png" alt="wishlist" style="width: 80%" alt="Responsive image"></div>
+                    <h4>Week 9</h4>
+                    <p>Met trost wil graag mededelen dat  CodeGorilla mee gaat doen aan de grootste Odyssey Blockchain Hackathon  te wereld.
+                    <div id="wishlist"><img src="/foto/odyssey.png" alt="wishlist" style="width: 80%" alt="Responsive image"></div>
+                     Ik mag samen  met Bart Brinks, Maarten Rengelink, Jan-Willem Haeke, Paul Ensing, Gerd Ratsch als team names CodeGorilla meedoen.
+                    Maandag 4-2-2019 was in Den Bosh de aftrap van de hackathon. Woensdag 6-2-2019 is de Track Deep Dive in Rotterdam. En 11-15 april is de Odyssey Blockchain Hackathon in Groningen.</p>
+                </div>
                     <div class="col">Week 10</div>
                     <div class="w-100"></div>
                     <div class="col">Week 11</div>
@@ -429,6 +436,7 @@
     <!--Section42-->
     <div id="section42" class="container-fluid " style="padding-top:70px;padding-bottom:70px;">
         <div class="w3-content w3-section" style="max-width:500px" ;>
+        <img class="mySlides" src="/foto/logosachtergrond.png" style="width:100%" alt="Responsive image">
             <img class="mySlides" src="foto/IMG_6744.PNG" style="width:70%" alt="Responsive image">
             <img class="mySlides" src="foto/Schermafbeelding2.png" style="width:70%" alt="Responsive image">
             <img class="mySlides" src="foto/schermafbeelding1.png" style="width:70%" alt="Responsive image">
