@@ -9,3 +9,4 @@ Portfolio.
 skills.
 slideshow.
 Contact page.
+Bootstrap, hmtl, css, php and js
