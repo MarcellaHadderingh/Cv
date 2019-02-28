@@ -459,7 +459,6 @@
             <img class="mySlides" src="foto/blogsim.png" style="width:100%" alt="Responsive image">
             <img class="mySlides" src="foto/blogs.png" style="width:100%" alt="Responsive image">
             <img class="mySlides" src="foto/chishome.png" style="width:100%" alt="Responsive image">
-            <img class="mySlides" src="foto/Chishomephone.png" style="width:100%" alt="Responsive image">
             <img class="mySlides" src="foto/chislogin.png" style="width:100%" alt="Responsive image">
 
 
