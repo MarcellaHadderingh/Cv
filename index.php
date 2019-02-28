@@ -72,7 +72,8 @@
                     <a class="nav-link" href="/contact/index.php">Contact</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="https://www.linkedin.com/in/marcella-hadderingh-013115176/" target="_blank"><i id="linked" class="fa fa-linkedin-square fa-2x social"></i></a>
+                    <a class="nav-link" href="https://www.linkedin.com/in/marcella-hadderingh-013115176/" target="_blank"><i
+                            id="linked" class="fa fa-linkedin-square fa-2x social"></i></a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="https://github.com/MarcellaHadderingh" target="_blank"><i id="git" class="fa fa-github-square fa-2x social"></i></a>
@@ -135,7 +136,8 @@
             <li><strong>Github</strong></li>
             <li><a href="https://github.com/MarcellaHadderingh" target="_blank"><i id="git" class="fa fa-github-square fa-3x social"></i></a></li>
             <li><strong>linkedin</strong></li>
-            <li><a href="https://www.linkedin.com/in/marcella-hadderingh-013115176/" target="_blank"><i id="linked" class="fa fa-linkedin-square fa-3x social"></i></a></li>
+            <li><a href="https://www.linkedin.com/in/marcella-hadderingh-013115176/" target="_blank"><i id="linked"
+                        class="fa fa-linkedin-square fa-3x social"></i></a></li>
         </ul>
     </div>
     <div class="row "></div>
@@ -245,33 +247,35 @@
                         <h3>Week 6</h3>
                         <p>Hier in ben ik aan het werk gegaan met PHP, MYSQL en SQL. Ik ben een voorbeeld webshop
                             gemaakt. Het gaat er voornamelijk om dat ik kan werken met PHP en Database.</p>
-                        <a href="https://github.com/MarcellaHadderingh/webshop" target="_blank" class="btn btn-primary">Webshop</a>
+                        <a href="https://github.com/MarcellaHadderingh/webshop" target="_blank" class="btn btn-primary">Webshop code Github</a>
+                    </div>
+                    <div class="w-100"></div>
+                    <div class="col" data-oas="fade-up-left" style="margin-top:40px">
+                        <div id="wishlist"><img src="foto/bootcamp.png" alt="bootcamp" style="width: 80%" alt="Responsive image"></div>
+                        <h4>Week8</h4>
+                        <p>Hier ben ik bezig gegaan met laravel en virtualbox(linux,Homestead).Ik heb een blog gemaakt over de bootcamp. Er zit een
+                            login en register functie in, naam wijzigen, avatar toevoegen, blog toevoegen en terug
+                            halen uit de database. Het is versie 1.0 ik ben er nog steeds mee bezig. Het is een
+                            bootcamp project. Helaas kan deze nog niet op Heroku of dergelijke ivm database. De code is
+                            wel te vinden in mijn Github.
+                        </p>
+                        <a href="https://github.com/MarcellaHadderingh/laravelblog" target="_blank" class="btn btn-primary">Blog code Github</a>
                     </div>
                     <div class="w-100"></div>
                     <div class="col" data-oas="fade-up-right" style="margin-top:40px">
-                        <h4>Week 7</h4>
-                        <p>Hierin ben ik bezig geweest met homestead en laraval.</p>
+                    <h4>Week 10</h4>
+                    <p>Dit is de laatste fase van de bootcamp. Hierin ben ik met een team begonnen aan ons eind project. Een P2PLending platform met AI(kunstmatige intelligentie)
+                    Hier voor staat 3 weken voor om het project af te ronden.
+                    </p>
+                    <div id="wishlist"><img src="/foto/Chisiphone.png" alt="bootcamp" style="width: 80%" alt="Responsive image"></div>
                     </div>
                     <div class="col" data-oas="fade-up-left" style="margin-top:40px">
-                    <div id="wishlist"><img src="foto/bootcamp.png" alt="bootcamp" style="width: 80%" alt="Responsive image"></div>
-                    <h4>Week8</h4>
-                    <p>Hier ben ik verder gegaan met laravel.Ik heb een blog gemaakt over de bootcamp. Er zit een login en register functie in, naam wijzigen, avatar toevoegen, blog toevoegen en terug halen uit de database. Het is versie 1.0 ik ben er nog steeds mee bezig. Het is een bootcamp project. Helaas kan deze nog niet op Heroku of dergelijke ivm database. De code is wel te vinden in mijn Github.
-                    </p>
-                    <a href="https://github.com/MarcellaHadderingh/laravelblog" target="_blank" class="btn btn-primary">Blog</a>
+                    <div id="wishlist"><img src="/foto/Chismac.png" alt="bootcamp" style="width: 80%" alt="Responsive image"></div>
+                    <h4>Week 12</h4>
+                    <p>Hier zijn wij druk bezig met ons eindproject. Onze ai werkt. Je kunt nu inloggen, registeren, inversteren, email verificatie, password reset, deposit, withdraw, en nog veel meer kijk gerust rond. </p>
+                    <a href="http://p2plendingai.herokuapp.com" target="_blank" class="btn btn-primary">P2P on Heroku.</a>
+                    <a href="https://bitbucket.org/chisai/p2plendingai/src/master/" target="_blank" class="btn btn-primary">Our code on Bitbucked</a>
                     </div>
-                    <div class="w-100"></div>
-                    <div class="col"  data-oas="fade-up-right" style="margin-top:40px">
-                    <div id="wishlist"><img src="/foto/logosachtergrond.png" alt="wishlist" style="width: 80%" alt="Responsive image"></div>
-                    <h4>Week 9</h4>
-                    <p>Met trost wil graag mededelen dat  CodeGorilla mee gaat doen aan de grootste Odyssey Blockchain Hackathon  te wereld.
-                    <div id="wishlist"><img src="/foto/odyssey.png" alt="wishlist" style="width: 80%" alt="Responsive image"></div>
-                     Ik mag samen  met Bart Brinks, Maarten Rengelink, Jan-Willem Haeke, Paul Ensing, Gerd Ratsch als team names CodeGorilla meedoen.
-                    Maandag 4-2-2019 was in Den Bosh de aftrap van de hackathon. Woensdag 6-2-2019 is de Track Deep Dive in Rotterdam. En 11-15 april is de Odyssey Blockchain Hackathon in Groningen.</p>
-                </div>
-                    <div class="col">Week 10</div>
-                    <div class="w-100"></div>
-                    <div class="col">Week 11</div>
-                    <div class="col">week 12</div>
                     <div class="w-100"></div>
                     <div class="col">Week 13</div>
                 </div>
@@ -292,8 +296,8 @@
                         <li>
                             <div class="progress">
                                 <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar"
-                                    aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:99%">
-                                    99%
+                                    aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:100%">
+                                    100%
                                 </div>
                             </div>
                         </li>
@@ -301,12 +305,12 @@
                         <li>
                             <div class="progress">
                                 <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar"
-                                    aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:99%">
-                                    99%
+                                    aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:100%">
+                                    100%
                                 </div>
                             </div>
                         </li>
-                        <h4><i class="fab fa-github"></i> Git/Github</h4>
+                        <h4><i class="fas fa-code-branch"></i> Git</h4>
                         <li>
                             <div class="progress">
                                 <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar"
@@ -328,8 +332,8 @@
                         <li>
                             <div class="progress">
                                 <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar"
-                                    aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:40%">
-                                    40%
+                                    aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:90%">
+                                    90%
                                 </div>
                             </div>
                         </li>
@@ -337,8 +341,8 @@
                         <li>
                             <div class="progress">
                                 <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar"
-                                    aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:98%">
-                                    98%
+                                    aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:99%">
+                                    99%
                                 </div>
                             </div>
                         </li>
@@ -346,17 +350,17 @@
                         <li>
                             <div class="progress">
                                 <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar"
-                                    aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:60%">
-                                    60%
+                                    aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:90%">
+                                    90%
                                 </div>
                             </div>
                         </li>
-                        <h4>SQL</h4>
+                        <h4><i class="fas fa-database"></i> SQL</h4>
                         <li>
                             <div class="progress">
                                 <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar"
-                                    aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:60%">
-                                    60%
+                                    aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:89%">
+                                    89%
                                 </div>
                             </div>
                         </li>
@@ -364,8 +368,8 @@
                         <li>
                             <div class="progress">
                                 <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar"
-                                    aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:77%">
-                                   77%
+                                    aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:97%">
+                                    97%
                                 </div>
                             </div>
                         </li>
@@ -373,8 +377,8 @@
                         <li>
                             <div class="progress">
                                 <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar"
-                                    aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:66%">
-                                   66%
+                                    aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:95%">
+                                    95%
                                 </div>
                             </div>
                         </li>
@@ -382,12 +386,12 @@
                         <li>
                             <div class="progress">
                                 <div class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar"
-                                    aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:0%">
-                                    0%
+                                    aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width:10%">
+                                    10%
                                 </div>
                             </div>
                         </li>
-                        
+
                     </ul>
                 </div>
                 <div class="check">
@@ -426,6 +430,9 @@
                         <li>
                             <h3><i id="check" class="fas fa-check-circle"></i> Linux</h3>
                         </li>
+                        <li>
+                            <h3><i id="check" class="fas fa-check-circle"></i> Photoshop</h3>
+                        </li>
                     </ul>
                 </div>
             </div>
@@ -436,7 +443,6 @@
     <!--Section42-->
     <div id="section42" class="container-fluid " style="padding-top:70px;padding-bottom:70px;">
         <div class="w3-content w3-section" style="max-width:500px" ;>
-        <img class="mySlides" src="/foto/logosachtergrond.png" style="width:100%" alt="Responsive image">
             <img class="mySlides" src="foto/IMG_6744.PNG" style="width:70%" alt="Responsive image">
             <img class="mySlides" src="foto/Schermafbeelding2.png" style="width:70%" alt="Responsive image">
             <img class="mySlides" src="foto/schermafbeelding1.png" style="width:70%" alt="Responsive image">
@@ -446,12 +452,17 @@
             <img class="mySlides" src="foto/Wishlist.png" style="width:100%" alt="Responsive image">
             <img class="mySlides" src="foto/contactform.png" style="width:100%" alt="Responsive image">
             <img class="mySlides" src="foto/contactlist.png" style="width:100%" alt="Responsive image">
-            <img class="mySlides" id="turn" src="/foto/IMG_6315.JPG" style="width:100%"  alt="Responsive image">
+            <img class="mySlides" id="turn" src="/foto/IMG_6315.JPG" style="width:100%" alt="Responsive image">
             <img class="mySlides" src="foto/IMG_6433.PNG" style="width:100%" alt="Responsive image">
             <img class="mySlides" id="turn" src="/foto/IMG_6658.JPG" style="width:100%" alt="Responsive image">
             <img class="mySlides" src="foto/bootcamp.png" style="width:100%" alt="Responsive image">
             <img class="mySlides" src="foto/blogsim.png" style="width:100%" alt="Responsive image">
             <img class="mySlides" src="foto/blogs.png" style="width:100%" alt="Responsive image">
+            <img class="mySlides" src="foto/chishome.png" style="width:100%" alt="Responsive image">
+            <img class="mySlides" src="foto/Chishomephone.png" style="width:100%" alt="Responsive image">
+            <img class="mySlides" src="foto/chislogin.png" style="width:100%" alt="Responsive image">
+
+
 
 
 
