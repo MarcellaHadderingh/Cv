@@ -32,7 +32,7 @@
             <a href="https://www.linkedin.com/in/marcella-hadderingh-013115176/" target="_blank"><i id="linked" class="fa fa-linkedin-square fa-3x social"></i></a>
             <a href="https://github.com/MarcellaHadderingh" target="_blank"><i id="git" class="fa fa-github-square fa-3x social"></i></a>
             <div class="button">
-                <a href="#section1" class="bttn">About Me<br><i class="fas fa-chevron-down"></i></a>
+                <a href="#section2" class="bttn">About Me<br><i class="fas fa-chevron-down"></i></a>
             </div>
         </div>
 
@@ -51,9 +51,6 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent1">
             <ul class="navbar-nav">
                 <li class="nav-item">
-                    <a class="nav-link" href="#section1">About</a>
-                </li>
-                <li class="nav-item">
                     <a class="nav-link" href="#section2">Curriculum Vitae</a>
                 </li>
                 <li class="nav-item">
@@ -69,6 +66,9 @@
                     </div>
                 </li>
                 <li class="nav-item">
+                    <a class="nav-link" href="https://marcellahadderinghmotivatie.herokuapp.com">Motivatie</a>
+                </li>
+                <li class="nav-item">
                     <a class="nav-link" href="/contact/index.php">Contact</a>
                 </li>
                 <li class="nav-item">
@@ -82,32 +82,6 @@
         </div>
     </nav>
 
-    <!--Section1-->
-    <div id="section1" class="container-fluid" style="padding-top:70px;padding-bottom:70px;">
-        <div class="row">
-            <div class="col-8" data-aos="flip-up" data-aos-duration="1500">
-                <h1>Marcella Hadderingh</h1>
-                <br>
-                <p>Altijd al ben ik enorm geïnteresseerd in gamen, gadgets, techniek en het aansluiten/uitvogelen
-                    ervan, hier kan ik dan ook uren zoet mee zijn.
-                    Ik vind het leuk om met mijn handen te werken en iets moois te creëeren.</p>
-                <p>Vrienden en familieleden bellen mij altijd voor het aansluiten en installeren van allerlei
-                    apparatuur en software, dit vind ik zo leuk dat ik daarom graag nieuwe vaardigheden wil leren en
-                    kennis op wil doen om hier uiteindelijk mijn werk van te kunnen maken.
-                </p>
-                <p>Dus ben ik op zoek gegaan naar een opleiding/omscholing en ben ik terecht gekomen bij CodeGorilla
-                    voor de omscholing tot Junior Webdeveloper.
-                </p>
-                <p>Dit project is voor mij een uitkomst met het oog op mijn gezin op financieel vlak omdat ik redelijk
-                    snel de arbeidsmarkt weer op kan maar voornamelijk op persoonlijk vlak, want het zou mij enorm veel
-                    voldoening geven om een baan te hebben die ik leuk vind, die bij mij past en waarin ik verder kan
-                    groeien.</p>
-                <p>Ik zit helemaal op mijn plek hier want wat ik nu doe en leer vind ik ontzettend leuk ook al ben ik
-                    pas net begonnen ik wil ontzettend graag alles op dit vlak leren en hier mijn werk van maken.
-                    Hierin zie ik mijn toekomst.</p>
-            </div>
-        </div>
-    </div>
     <!--Section2-->
     <div id="section2" class="container-fluid" style="padding-top:70px;padding-bottom:70px">
     </div>
@@ -277,7 +251,14 @@
                     <a href="https://bitbucket.org/chisai/p2plendingai/src/master/" target="_blank" class="btn btn-primary">Our code on Bitbucked</a>
                     </div>
                     <div class="w-100"></div>
-                    <div class="col">Week 13</div>
+                    <div class="col-5" data-oas="fade-up-right" style="margin-top:40px">
+                    <div id="wishlist"><img src="foto/motivatie.png" alt="wishlist" style="width: 100%" alt="Responsive image"></div>
+                    <h4>Week 13</h4>
+                    <p> Hier in heb ik mijn motivatie in HTML, CSS gemaakt. Deze staat ook op heroku. Eindproject is klaar en nu ben ik zelf ook klaar om uit te stromen naar werk. Benieuwd wat er achter de foto zit kijk gerust</p>
+                    <a href="https://marcellahadderinghmotivatie.herokuapp.com" target="_blank" class="btn btn-primary">Motivatie</a>
+                    <a href="https://github.com/MarcellaHadderingh/Motivation" target="_blank" class="btn btn-primary">Code op Github</a>
+
+                    </div>
                 </div>
             </div>
         </div>
