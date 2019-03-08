@@ -65,8 +65,14 @@
                         <a class="dropdown-item" href="#section42">Slideshow</a>
                     </div>
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="https://marcellahadderinghmotivatie.herokuapp.com">Motivatie</a>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+                       Motivatie
+                    </a>
+                    <div class="dropdown-menu">
+                        <a class="dropdown-item" href="https://marcellahadderinghmotivatie.herokuapp.com" target="_blank">Motivatie Desktop</a>
+                        <a class="dropdown-item" href="https://mhmotivationmobile.herokuapp.com" target="_blank">Motivatie Mobile</a>
+                    </div>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="/contact/index.php">Contact</a>
