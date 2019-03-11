@@ -263,7 +263,7 @@
                     <p> Hier in heb ik mijn motivatie in HTML, CSS gemaakt. Deze staat ook op heroku. Eindproject is klaar en nu ben ik zelf ook klaar om uit te stromen naar werk. Benieuwd wat er achter de foto zit kijk gerust</p>
                     <a href="https://marcellahadderinghmotivatie.herokuapp.com" target="_blank" class="btn btn-primary">Motivatie</a>
                     <a href="https://github.com/MarcellaHadderingh/Motivation" target="_blank" class="btn btn-primary">Code op Github</a>
-
+                    <a href="https://mhmotivationmobile.herokuapp.com" target="_blank" class="btn btn-primary">Motivatie Mobile Versie</a>
                     </div>
                 </div>
             </div>
