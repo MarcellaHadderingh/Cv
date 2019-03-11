@@ -273,7 +273,7 @@
 
 
     <!--Section41-->
-    <div id="section41" class="container-fluid " style="padding-top:70px;padding-bottom:70px;margin-bottom:400px;">
+    <div id="section41" class="container-fluid " style="padding-top:70px;padding-bottom:70px;margin-bottom:500px;">
         <div id="progress">
             <div class='row'>
                 <div class="col-sm-4">
@@ -429,7 +429,7 @@
 
     <!--Section42-->
     <div id="section42" class="container-fluid " style="padding-top:70px;padding-bottom:70px;">
-        <div class="w3-content w3-section" style="max-width:500px" ;>
+        <div class="w3-content w3-section" style="max-width:600px" ;>
             <img class="mySlides" src="foto/IMG_6744.PNG" style="width:70%" alt="Responsive image">
             <img class="mySlides" src="foto/Schermafbeelding2.png" style="width:70%" alt="Responsive image">
             <img class="mySlides" src="foto/schermafbeelding1.png" style="width:70%" alt="Responsive image">
