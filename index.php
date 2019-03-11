@@ -447,20 +447,8 @@
             <img class="mySlides" src="foto/blogs.png" style="width:100%" alt="Responsive image">
             <img class="mySlides" src="foto/chishome.png" style="width:100%" alt="Responsive image">
             <img class="mySlides" src="foto/chislogin.png" style="width:100%" alt="Responsive image">
-
-
-
-
-
-
-
         </div>
     </div>
-
-
-
-
-
 
     <!--Footer-->
     <footer>Copyright &copy; 2019 Hadderingh. Alle rechten voorbehouden.<br>
