@@ -22,6 +22,7 @@
                 background-position: center center;
                 background-attachment: fixed;
                 background-size: cover;
+                text-shadow: 2px 2px 2px #000;
             }
         }
         /*head*/
@@ -34,7 +35,7 @@
         .imgtext h1 {
             color: #D9DAD9;
             letter-spacing: 5px;
-            text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+            text-shadow: 2px 2px 2px #000;
         }
         
         .imgtext {
