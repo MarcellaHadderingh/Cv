@@ -277,9 +277,9 @@
             padding: 15px;
             margin-top: 40px;
             width: 100%;
-            background: black;
+            background: #292b2c;
             color: grey;
-            text-align: center;
+            height: auto;
         }
         /*checklist programs*/
         
@@ -289,4 +289,8 @@
         
         #check {
             color: green;
+        }
+        
+        footer p {
+            text-align: center;
         }
