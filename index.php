@@ -69,7 +69,7 @@
                     <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
                        Motivatie
                     </a>
-                    <div class="dropdown-menu">
+                    <div class="dropdown-menu ">
                         <a class="dropdown-item" href="https://marcellahadderinghmotivatie.herokuapp.com" target="_blank">Motivatie Desktop</a>
                         <a class="dropdown-item" href="https://mhmotivationmobile.herokuapp.com" target="_blank">Motivatie Mobile</a>
                     </div>
@@ -126,7 +126,8 @@
             <h1><i class=" fas fa-graduation-cap "></i>Opleidigen</h1>
             <ul>
                 <li><strong>2018-2019</strong><br><img src="/foto/CodeGorilla.png" style="width: 7%"><br>Opleiding
-                    Junior Web Developer Code Gorilla<br> Op dit moment nog mee bezig</li>
+                    Junior Web Developer Code Gorilla<br> Code Gorilla IT Bootcamp 
+                    <p>Code Gorilla is een intensieve bootcamp <br>waarbij je in 3 maanden opgeleid wordt tot junior developer.</p><p>Om mee te kunnen doen geldt een strenge selectieprocedure.  <br>Deelnemers zijn (tijdens o.a. een 30 uur durende hackathon)  <br>uitgebreid getest op stressbestendigheid, <br> leergierigheid, growth of mind en de competenties om agile te werken.</p><p>Na drie maanden zijn programmeurs opgeleid tot front- end, <br> back-end of full stack developer met kennis van  <br>Javascript, CSS, HTML, PHP Linux, SQL,en Laravel.</p></li>
                 <li><strong>2008</strong><br> Aspirant schipper(vol matroos)</li>
                 <li><strong>2004-2006</strong><br> Het stedelijk luyceum<br> Locatie Boddenkamp te Enschede<br> Niveau
                     VMBO-Consumptief<br> Diploma behaald in 2006</li>
