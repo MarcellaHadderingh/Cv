@@ -452,7 +452,7 @@
     </div>
 
     <!--Footer-->
-    <footer class="bg-dark">
+    <footer>
     <p>Copyright &copy; 2019 Hadderingh. Alle rechten voorbehouden.</p>
         <a href="mailto:marcellavanduyn@gmail.com" target="_blank"><i id="social-em" class="fa fa-envelope-square fa-2x social"></i></a>
         <a href="https://www.linkedin.com/in/marcella-hadderingh-013115176/" target="_blank"><i id="social-in" class="fa fa-linkedin-square fa-2x social"></i></a>
