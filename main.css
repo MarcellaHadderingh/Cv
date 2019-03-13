@@ -277,7 +277,11 @@
             padding: 15px;
             margin-top: 40px;
             width: 100%;
+<<<<<<< HEAD
             /* background: #292b2c; */
+=======
+            background: #292b2c;
+>>>>>>> master
             color: grey;
             height: auto;
         }
