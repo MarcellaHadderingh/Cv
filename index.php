@@ -8,14 +8,14 @@
 
     <!--bootstrap CSS------------------------>
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO"
-        crossorigin="anonymous">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+        integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
     <!--Animate on scroll-------------------------->
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Roboto+Slab" rel="stylesheet">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP"
-        crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css"
+        integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <!--Main CSS------------------------>
     <link rel="icon" href="foto/mhd-logo-black.png" type="image/png" sizes="16x16">
@@ -29,8 +29,10 @@
         <div class="imgtext">
             <h1>Hello, I am Marcella Hadderingh<br>And I am a Junior Webdeveloper.</h1>
 
-            <a href="https://www.linkedin.com/in/marcella-hadderingh-013115176/" target="_blank"><i id="linked" class="fa fa-linkedin-square fa-3x social"></i></a>
-            <a href="https://github.com/MarcellaHadderingh" target="_blank"><i id="git" class="fa fa-github-square fa-3x social"></i></a>
+            <a href="https://www.linkedin.com/in/marcella-hadderingh-013115176/" target="_blank"><i id="linked"
+                    class="fa fa-linkedin-square fa-3x social"></i></a>
+            <a href="https://github.com/MarcellaHadderingh" target="_blank"><i id="git"
+                    class="fa fa-github-square fa-3x social"></i></a>
             <div class="button">
                 <a href="#section2" class="bttn">About Me<br><i class="fas fa-chevron-down"></i></a>
             </div>
@@ -44,8 +46,9 @@
     <!--Nav-->
     <nav class="navbar navbar-expand-lg bg-dark navbar-dark sticky-top">
         <a href="/index.php"><img src="foto/mhd-logo-white.svg" alt="logo"></a>
-        <button class="navbar-toggler toggler-example" type="button" data-toggle="collapse" data-target="#navbarSupportedContent1"
-            aria-controls="navbarSupportedContent1" aria-expanded="false" aria-label="Toggle navigation"><span class="dark-blue-text"><i
+        <button class="navbar-toggler toggler-example" type="button" data-toggle="collapse"
+            data-target="#navbarSupportedContent1" aria-controls="navbarSupportedContent1" aria-expanded="false"
+            aria-label="Toggle navigation"><span class="dark-blue-text"><i
                     class="fas fa-bars fa-1x"></i></span></button>
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent1">
@@ -67,22 +70,25 @@
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
-                       Motivatie
+                        Motivatie
                     </a>
                     <div class="dropdown-menu ">
-                        <a class="dropdown-item" href="https://marcellahadderinghmotivatie.herokuapp.com" target="_blank">Motivatie Desktop</a>
-                        <a class="dropdown-item" href="https://mhmotivationmobile.herokuapp.com" target="_blank">Motivatie Mobile</a>
+                        <a class="dropdown-item" href="https://marcellahadderinghmotivatie.herokuapp.com"
+                            target="_blank">Motivatie Desktop</a>
+                        <a class="dropdown-item" href="https://mhmotivationmobile.herokuapp.com"
+                            target="_blank">Motivatie Mobile</a>
                     </div>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="/contact/index.php">Contact</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="https://www.linkedin.com/in/marcella-hadderingh-013115176/" target="_blank"><i
-                            id="linked" class="fa fa-linkedin-square fa-2x social"></i></a>
+                    <a class="nav-link" href="https://www.linkedin.com/in/marcella-hadderingh-013115176/"
+                        target="_blank"><i id="linked" class="fa fa-linkedin-square fa-2x social"></i></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="https://github.com/MarcellaHadderingh" target="_blank"><i id="git" class="fa fa-github-square fa-2x social"></i></a>
+                    <a class="nav-link" href="https://github.com/MarcellaHadderingh" target="_blank"><i id="git"
+                            class="fa fa-github-square fa-2x social"></i></a>
                 </li>
             </ul>
         </div>
@@ -108,13 +114,15 @@
             <li><strong>TELEFOON</strong></li>
             <li>06 46944691</li>
             <li><strong>E-MAIL</strong></li>
-            <li><a href="mailto:marcellavanduyn@gmail.com"><i id="social-em" class="fa fa-envelope-square fa-3x social"></i></a></li>
+            <li><a href="mailto:marcellavanduyn@gmail.com"><i id="social-em"
+                        class="fa fa-envelope-square fa-3x social"></i></a></li>
             <li><strong>BURGELIJKE STAAT</strong></li>
             <li>Gehuwd</li>
             <li><strong>NATIONALITEIT</strong></li>
             <li>Nederlandse</li>
             <li><strong>Github</strong></li>
-            <li><a href="https://github.com/MarcellaHadderingh" target="_blank"><i id="git" class="fa fa-github-square fa-3x social"></i></a></li>
+            <li><a href="https://github.com/MarcellaHadderingh" target="_blank"><i id="git"
+                        class="fa fa-github-square fa-3x social"></i></a></li>
             <li><strong>linkedin</strong></li>
             <li><a href="https://www.linkedin.com/in/marcella-hadderingh-013115176/" target="_blank"><i id="linked"
                         class="fa fa-linkedin-square fa-3x social"></i></a></li>
@@ -126,8 +134,15 @@
             <h1><i class=" fas fa-graduation-cap "></i>Opleidigen</h1>
             <ul>
                 <li><strong>2018-2019</strong><br><img src="/foto/CodeGorilla.png" style="width: 7%"><br>Opleiding
-                    Junior Web Developer Code Gorilla<br> Code Gorilla IT Bootcamp 
-                    <p>Code Gorilla is een intensieve bootcamp <br>waarbij je in 3 maanden opgeleid wordt tot junior developer.</p><p>Om mee te kunnen doen geldt een strenge selectieprocedure.  <br>Deelnemers zijn (tijdens o.a. een 30 uur durende hackathon)  <br>uitgebreid getest op stressbestendigheid, <br> leergierigheid, growth of mind en de competenties om agile te werken.</p><p>Na drie maanden zijn programmeurs opgeleid tot front- end, <br> back-end of full stack developer met kennis van  <br>Javascript, CSS, HTML, PHP Linux, SQL,en Laravel.</p></li>
+                    Junior Web Developer Code Gorilla<br> Code Gorilla IT Bootcamp
+                    <p>Code Gorilla is een intensieve bootcamp <br>waarbij je in 3 maanden opgeleid wordt tot junior
+                        developer.</p>
+                    <p>Om mee te kunnen doen geldt een strenge selectieprocedure. <br>Deelnemers zijn (tijdens o.a. een
+                        30 uur durende hackathon) <br>uitgebreid getest op stressbestendigheid, <br> leergierigheid,
+                        growth of mind en de competenties om agile te werken.</p>
+                    <p>Na drie maanden zijn programmeurs opgeleid tot front- end, <br> back-end of full stack developer
+                        met kennis van <br>Javascript, CSS, HTML, PHP Linux, SQL,en Laravel.</p>
+                </li>
                 <li><strong>2008</strong><br> Aspirant schipper(vol matroos)</li>
                 <li><strong>2004-2006</strong><br> Het stedelijk luyceum<br> Locatie Boddenkamp te Enschede<br> Niveau
                     VMBO-Consumptief<br> Diploma behaald in 2006</li>
@@ -143,13 +158,15 @@
             <h2><i class="fas fa-briefcase"></i> Werk ervaring
             </h2>
             <ul>
-                <li><strong>2018-2019</strong><br><img src="/foto/CodeGorilla.png" style="width: 7%"><br>Code Gorilla<br>
+                <li><strong>2018-2019</strong><br><img src="/foto/CodeGorilla.png" style="width: 7%"><br>Code
+                    Gorilla<br>
                     Functie: Junior webdeveloper</li>
                 <li><strong>2015-2016</strong><br> CCS Cleaning<br> Functie: Schoonmaakster</li>
                 <li><strong> 2010-2012</strong><br> Fc-Twente
                     <br> Functie:Steward
                 </li>
-                <li><strong>2009-2013</strong><br> Verschillende banen in de sector van de Binnenvaart<br>Functie:Matroos
+                <li><strong>2009-2013</strong><br> Verschillende banen in de sector van de
+                    Binnenvaart<br>Functie:Matroos
                     <i class="fas fa-anchor"></i>
                     <br></li>
                 <li><strong>2007-2008</strong><br> Sanders Supermarkt<br> Functie: Verkoopmedewerkster Slagerij</li>
@@ -198,18 +215,21 @@
                             gemaakt in Bootstrap. Ook ben ik met Javascript aan het werk geweest. Hier mee heb ik een
                             contactlijst gemaakt, met filter en nieuw toevoeginsfunctie.(versie1)</p>
                         <a href="/CV1/index.html" target="_blank" class="btn btn-primary">CV</a>
-                        <a href="https://contactlistmarcella.herokuapp.com" target="_blank" class="btn btn-primary">Contact
+                        <a href="https://contactlistmarcella.herokuapp.com" target="_blank"
+                            class="btn btn-primary">Contact
                             Lijst</a>
                     </div>
                     <div class="w-100"></div>
                     <div class="col" data-aos="fade-up-right">
-                        <div id="wishlist"><img src="foto/Wishlist.png" alt="wishlist" style="width: 80%" alt="Responsive image"></div>
+                        <div id="wishlist"><img src="foto/Wishlist.png" alt="wishlist" style="width: 80%"
+                                alt="Responsive image"></div>
                         <h3>Week 3</h3>
                         <p>Hierin heb ik een SCRUM les gehad. (Dit is een manier van werken). Hierna ben ik in een team
                             gestapt om met scrum een opdracht te maken.De opdracht was een verlanglijst maken. Deze
                             opdracht hadden we in 2 dagen af en gepresenteerd
                             en online gezet op heroku. Dit verlanglijst is opgemaakt in HTML CSS en Javascipt.</p>
-                        <a href="https://wishlistproject.herokuapp.com/" target="_blank" class="btn btn-primary">Verlanglijstje</a>
+                        <a href="https://wishlistproject.herokuapp.com/" target="_blank"
+                            class="btn btn-primary">Verlanglijstje</a>
                     </div>
                     <div class="col" data-aos="fade-up-left" style="margin-top:280px">
                         <h3>Week 4</h3>
@@ -228,43 +248,69 @@
                         <h3>Week 6</h3>
                         <p>Hier in ben ik aan het werk gegaan met PHP, MYSQL en SQL. Ik ben een voorbeeld webshop
                             gemaakt. Het gaat er voornamelijk om dat ik kan werken met PHP en Database.</p>
-                        <a href="https://github.com/MarcellaHadderingh/webshop" target="_blank" class="btn btn-primary">Webshop code Github</a>
+                        <a href="https://github.com/MarcellaHadderingh/webshop" target="_blank"
+                            class="btn btn-primary">Webshop code Github</a>
                     </div>
                     <div class="w-100"></div>
                     <div class="col" data-oas="fade-up-left" style="margin-top:40px">
-                        <div id="wishlist"><img src="foto/bootcamp.png" alt="bootcamp" style="width: 80%" alt="Responsive image"></div>
+                        <div id="wishlist"><img src="foto/bootcamp.png" alt="bootcamp" style="width: 80%"
+                                alt="Responsive image"></div>
                         <h4>Week8</h4>
-                        <p>Hier ben ik bezig gegaan met laravel en virtualbox(linux,Homestead).Ik heb een blog gemaakt over de bootcamp. Er zit een
+                        <p>Hier ben ik bezig gegaan met laravel en virtualbox(linux,Homestead).Ik heb een blog gemaakt
+                            over de bootcamp. Er zit een
                             login en register functie in, naam wijzigen, avatar toevoegen, blog toevoegen en terug
                             halen uit de database. Het is versie 1.0 ik ben er nog steeds mee bezig. Het is een
                             bootcamp project. Helaas kan deze nog niet op Heroku of dergelijke ivm database. De code is
                             wel te vinden in mijn Github.
                         </p>
-                        <a href="https://github.com/MarcellaHadderingh/laravelblog" target="_blank" class="btn btn-primary">Blog code Github</a>
+                        <a href="https://github.com/MarcellaHadderingh/laravelblog" target="_blank"
+                            class="btn btn-primary">Blog code Github</a>
                     </div>
                     <div class="w-100"></div>
                     <div class="col" data-oas="fade-up-right" style="margin-top:40px">
-                    <h4>Week 10</h4>
-                    <p>Dit is de laatste fase van de bootcamp. Hierin ben ik met een team begonnen aan ons eind project. Een P2PLending platform met AI(kunstmatige intelligentie)
-                    Hier voor staat 3 weken voor om het project af te ronden.
-                    </p>
-                    <div id="wishlist"><img src="/foto/Chisiphone.png" alt="bootcamp" style="width: 80%" alt="Responsive image"></div>
+                        <h4>Week 10</h4>
+                        <p>Dit is de laatste fase van de bootcamp. Hierin ben ik met een team begonnen aan ons eind
+                            project. Een P2PLending platform met AI(kunstmatige intelligentie)
+                            Hier voor staat 3 weken voor om het project af te ronden.
+                        </p>
+                        <div id="wishlist"><img src="/foto/Chisiphone.png" alt="bootcamp" style="width: 80%"
+                                alt="Responsive image"></div>
                     </div>
                     <div class="col" data-oas="fade-up-left" style="margin-top:40px">
-                    <div id="wishlist"><img src="/foto/Chismac.png" alt="bootcamp" style="width: 80%" alt="Responsive image"></div>
-                    <h4>Week 12</h4>
-                    <p>Hier zijn wij druk bezig met ons eindproject. Onze ai werkt. Je kunt nu inloggen, registeren, inversteren, email verificatie, password reset, deposit, withdraw, en nog veel meer kijk gerust rond. </p>
-                    <a href="http://p2plendingai.herokuapp.com" target="_blank" class="btn btn-primary">P2P on Heroku.</a>
-                    <a href="https://bitbucket.org/chisai/p2plendingai/src/master/" target="_blank" class="btn btn-primary">Our code on Bitbucked</a>
+                        <div id="wishlist"><img src="/foto/Chismac.png" alt="bootcamp" style="width: 80%"
+                                alt="Responsive image"></div>
+                        <h4>Week 12</h4>
+                        <p>Hier zijn wij druk bezig met ons eindproject. Onze ai werkt. Je kunt nu inloggen, registeren,
+                            inversteren, email verificatie, password reset, deposit, withdraw, en nog veel meer kijk
+                            gerust rond. </p>
+                        <a href="http://p2plendingai.herokuapp.com" target="_blank" class="btn btn-primary">P2P on
+                            Heroku.</a>
+                        <a href="https://bitbucket.org/chisai/p2plendingai/src/master/" target="_blank"
+                            class="btn btn-primary">Our code on Bitbucked</a>
                     </div>
                     <div class="w-100"></div>
-                    <div class="col-5" data-oas="fade-up-right" style="margin-top:40px">
-                    <div id="wishlist"><img src="foto/motivatie.png" alt="wishlist" style="width: 100%" alt="Responsive image"></div>
-                    <h4>Week 13</h4>
-                    <p> Hier in heb ik mijn motivatie in HTML, CSS gemaakt. Deze staat ook op heroku. Eindproject is klaar en nu ben ik zelf ook klaar om uit te stromen naar werk. Benieuwd wat er achter de foto zit kijk gerust</p>
-                    <a href="https://marcellahadderinghmotivatie.herokuapp.com" target="_blank" class="btn btn-primary">Motivatie</a>
-                    <a href="https://github.com/MarcellaHadderingh/Motivation" target="_blank" class="btn btn-primary">Code op Github</a>
-                    <a href="https://mhmotivationmobile.herokuapp.com" target="_blank" class="btn btn-primary">Motivatie Mobile Versie</a>
+                    <div class="col" data-oas="fade-up-right" style="margin-top:40px">
+                        <div id="wishlist"><img src="foto/motivatie.png" alt="wishlist" style="width: 80%"
+                                alt="Responsive image"></div>
+                        <h4>Week 13</h4>
+                        <p> Hier in heb ik mijn motivatie in HTML, CSS gemaakt. Deze staat ook op heroku. Eindproject is
+                            klaar en nu ben ik zelf ook klaar om uit te stromen naar werk. Benieuwd wat er achter de
+                            foto zit kijk gerust</p>
+                        <a href="https://marcellahadderinghmotivatie.herokuapp.com" target="_blank"
+                            class="btn btn-primary">Motivatie</a>
+                        <a href="https://github.com/MarcellaHadderingh/Motivation" target="_blank"
+                            class="btn btn-primary">Code op Github</a>
+                        <a href="https://mhmotivationmobile.herokuapp.com" target="_blank"
+                            class="btn btn-primary">Motivatie Mobile Versie</a>
+                    </div>
+                    <div class="col" data-oas="fade-up-left" style="margin-top:40px">
+                        <div id="wishlist"><img src="/foto/TodoVue.png" alt="bootcamp" style="width: 80%"
+                                alt="Responsive image"></div>
+                        <h4>Eerst week na de Bootcamp</h4>
+                        <p>Na de bootcamp ben ik gelijk aan de slag gegaan met VueJs. Hier van heb ik een ToDo list gemaakt.
+                        Hier in kun je een item invullen,wijzigen, verwijderen, sorten en afvinken. Ook worden de aantal items weer gegeven.
+                        Ben je benieuwd kijk gerust op mijn GitHub.</p>
+                        <a href="https://github.com/MarcellaHadderingh/TodoListVuejs" target="_blank" class="btn btn-primary">Github</a>
                     </div>
                 </div>
             </div>
@@ -453,11 +499,14 @@
 
     <!--Footer-->
     <footer>
-    <p>Copyright &copy; 2019 Hadderingh. Alle rechten voorbehouden.</p>
-        <a href="mailto:marcellavanduyn@gmail.com" target="_blank"><i id="social-em" class="fa fa-envelope-square fa-2x social"></i></a>
-        <a href="https://www.linkedin.com/in/marcella-hadderingh-013115176/" target="_blank"><i id="social-in" class="fa fa-linkedin-square fa-2x social"></i></a>
-        <a href="https://github.com/MarcellaHadderingh" target="_blank"><i id="social-gi" class="fa fa-github-square fa-2x social"></i></a>
-  </footer>
+        <p>Copyright &copy; 2019 Hadderingh. Alle rechten voorbehouden.</p>
+        <a href="mailto:marcellavanduyn@gmail.com" target="_blank"><i id="social-em"
+                class="fa fa-envelope-square fa-2x social"></i></a>
+        <a href="https://www.linkedin.com/in/marcella-hadderingh-013115176/" target="_blank"><i id="social-in"
+                class="fa fa-linkedin-square fa-2x social"></i></a>
+        <a href="https://github.com/MarcellaHadderingh" target="_blank"><i id="social-gi"
+                class="fa fa-github-square fa-2x social"></i></a>
+    </footer>
 
 
 
@@ -488,12 +537,15 @@
         setTimeout(carousel, 2000); // Change image every 2 seconds
     }
 </script>
-<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js " integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo "
-    crossorigin="anonymous "></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js " integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49 "
-    crossorigin="anonymous "></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js " integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy "
-    crossorigin="anonymous "></script>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js "
+    integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo " crossorigin="anonymous ">
+</script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js "
+    integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49 " crossorigin="anonymous ">
+</script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js "
+    integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy " crossorigin="anonymous ">
+</script>
 
 
 
