@@ -133,7 +133,7 @@
         <div id="space">
             <h1><i class=" fas fa-graduation-cap "></i>Opleidigen</h1>
             <ul>
-                <li><strong>2018-2019</strong><br><img src="/foto/CodeGorilla.png" style="width: 7%"><br>Opleiding
+                <li><strong>2018-2019</strong><br><a href="https://www.codegorilla.nl" target="_blank"><img src="/foto/CodeGorilla.png" style="width: 7%"><a href="https://www.codegorilla.nl">Code Gorilla </a><br>Opleiding
                     Junior Web Developer Code Gorilla<br> Code Gorilla IT Bootcamp
                     <p>Code Gorilla is een intensieve bootcamp <br>waarbij je in 3 maanden opgeleid wordt tot junior
                         developer.</p>
@@ -158,7 +158,9 @@
             <h2><i class="fas fa-briefcase"></i> Werk ervaring
             </h2>
             <ul>
-                <li><strong>2018-2019</strong><br><img src="/foto/CodeGorilla.png" style="width: 7%"><br>Code
+            <li><strong>April 2019-Heden</strong><br><a href="https://www.accommodatiehuur.nl"><img src="/foto/accommodatiehuurnl.png" style="width: 25%"></a><br>Accommodatiehuur B.V<br>
+                    Functie: Startende software developer</li>
+                <li><strong>2018-2019</strong><br><a href="https://www.codegorilla.nl" target="_blank"><img src="/foto/CodeGorilla.png" style="width: 7%"></a><br>Code
                     Gorilla<br>
                     Functie: Junior webdeveloper</li>
                 <li><strong>2015-2016</strong><br> CCS Cleaning<br> Functie: Schoonmaakster</li>
@@ -186,8 +188,7 @@
                     <img src="foto/hackaton.png" style="width: 60%" alt="Responsive image">
                 </div>
                 <h1>Hackaton</h1>
-                <p>Op 29 November 2018 heb ik meegedaan aan een hackaton. <br> Deze werd georganiseerd door Code
-                    Gorilla. <br> Aan de hand van deze hackaton ben ik door gegaan naar de Bootcamp om mee te mogen
+                <p>Op 29 November 2018 heb ik meegedaan aan een hackaton. <br> Deze werd georganiseerd door <a href="https://www.codegorilla.nl" target="_blank">Code Gorilla. </a><br> Aan de hand van deze hackaton ben ik door gegaan naar de Bootcamp om mee te mogen
                     doen aan de opleiding tot Junior web developer.<br> Tijdens deze hackaton was onze opdracht om een
                     website te maken voor CEECEE Comunity. <br> Dit gebeurde in team verband.<br> Zie de link voor mijn
                     resultaat.
@@ -312,6 +313,23 @@
                         Ben je benieuwd kijk gerust op mijn GitHub.</p>
                         <a href="https://github.com/MarcellaHadderingh/TodoListVuejs" target="_blank" class="btn btn-primary">Github</a>
                     </div>
+                    <div class="w-100"></div>
+                    <div class="col" data-oas="fade-up-right" style="margin-top:40px">
+                        <div id="Accommodatiehuur"><a href="https://www.accommodatiehuur.nl"><img src="/foto/accommodatiehuurnl.png" style="width: 100%"></a></div>
+                        <h4>8 April 2019</h4>
+                        <p> Na 3 maanden bootcamp van <a href="https://www.codegorilla.nl" target="_blank">Code Gorilla </a> ga ik nu aan de slag bij als
+                        startende software developer bij <a href="https://www.accommodatiehuur.nl"target="_blank">Accommondatiehuur.</a>
+                        Een totaal nieuwe uitdaging. Nu moet ik alles wat ik heb geleerd in de praktijk en in een bedrijf gaan gebruiken. Spannend! 
+                        Ik heb er heel veel zin in. Voor dat ik aan de slag kon heb ik ook een assessment moeten doen. Deze staat op mijn Github.
+                        Ben je benieuwd wat en waar ik aan de slag ga kijk gerust bij ze op site!
+                        Ik zal tussendoor proberen om mijn cv up to date te houden en mij vordering ook.
+                        Hou me dus in de gaten! </p>
+                        <a href="https://github.com/MarcellaHadderingh/Booking" target="_blank"
+                            class="btn btn-primary">Assessment github</a>
+                        <a href="https://www.accommodatiehuur.nl" target="_blank"
+                            class="btn btn-primary">Accommodatiehuur</a>
+                    </div>
+                    <div class="col"></div>
                 </div>
             </div>
         </div>
